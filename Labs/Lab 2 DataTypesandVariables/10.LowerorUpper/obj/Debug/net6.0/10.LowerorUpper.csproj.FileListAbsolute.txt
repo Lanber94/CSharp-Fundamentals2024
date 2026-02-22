@@ -1,0 +1,14 @@
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 2 DataTypesandVariables\10.LowerorUpper\bin\Debug\net6.0\10.LowerorUpper.exe
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 2 DataTypesandVariables\10.LowerorUpper\bin\Debug\net6.0\10.LowerorUpper.deps.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 2 DataTypesandVariables\10.LowerorUpper\bin\Debug\net6.0\10.LowerorUpper.runtimeconfig.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 2 DataTypesandVariables\10.LowerorUpper\bin\Debug\net6.0\10.LowerorUpper.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 2 DataTypesandVariables\10.LowerorUpper\bin\Debug\net6.0\10.LowerorUpper.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 2 DataTypesandVariables\10.LowerorUpper\obj\Debug\net6.0\10.LowerorUpper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 2 DataTypesandVariables\10.LowerorUpper\obj\Debug\net6.0\10.LowerorUpper.AssemblyInfoInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 2 DataTypesandVariables\10.LowerorUpper\obj\Debug\net6.0\10.LowerorUpper.AssemblyInfo.cs
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 2 DataTypesandVariables\10.LowerorUpper\obj\Debug\net6.0\10.LowerorUpper.csproj.CoreCompileInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 2 DataTypesandVariables\10.LowerorUpper\obj\Debug\net6.0\10.LowerorUpper.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 2 DataTypesandVariables\10.LowerorUpper\obj\Debug\net6.0\refint\10.LowerorUpper.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 2 DataTypesandVariables\10.LowerorUpper\obj\Debug\net6.0\10.LowerorUpper.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 2 DataTypesandVariables\10.LowerorUpper\obj\Debug\net6.0\10.LowerorUpper.genruntimeconfig.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 2 DataTypesandVariables\10.LowerorUpper\obj\Debug\net6.0\ref\10.LowerorUpper.dll

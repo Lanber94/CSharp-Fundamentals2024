@@ -1,0 +1,14 @@
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\09.SpiceMustFlow\bin\Debug\net8.0\09.SpiceMustFlow.exe
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\09.SpiceMustFlow\bin\Debug\net8.0\09.SpiceMustFlow.deps.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\09.SpiceMustFlow\bin\Debug\net8.0\09.SpiceMustFlow.runtimeconfig.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\09.SpiceMustFlow\bin\Debug\net8.0\09.SpiceMustFlow.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\09.SpiceMustFlow\bin\Debug\net8.0\09.SpiceMustFlow.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\09.SpiceMustFlow\obj\Debug\net8.0\09.SpiceMustFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\09.SpiceMustFlow\obj\Debug\net8.0\09.SpiceMustFlow.AssemblyInfoInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\09.SpiceMustFlow\obj\Debug\net8.0\09.SpiceMustFlow.AssemblyInfo.cs
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\09.SpiceMustFlow\obj\Debug\net8.0\09.SpiceMustFlow.csproj.CoreCompileInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\09.SpiceMustFlow\obj\Debug\net8.0\09.SpiceMustFlow.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\09.SpiceMustFlow\obj\Debug\net8.0\refint\09.SpiceMustFlow.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\09.SpiceMustFlow\obj\Debug\net8.0\09.SpiceMustFlow.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\09.SpiceMustFlow\obj\Debug\net8.0\09.SpiceMustFlow.genruntimeconfig.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\09.SpiceMustFlow\obj\Debug\net8.0\ref\09.SpiceMustFlow.dll

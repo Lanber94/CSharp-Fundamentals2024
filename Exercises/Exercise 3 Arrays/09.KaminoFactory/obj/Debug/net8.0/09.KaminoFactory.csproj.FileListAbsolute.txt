@@ -1,0 +1,14 @@
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\09.KaminoFactory\bin\Debug\net8.0\09.KaminoFactory.exe
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\09.KaminoFactory\bin\Debug\net8.0\09.KaminoFactory.deps.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\09.KaminoFactory\bin\Debug\net8.0\09.KaminoFactory.runtimeconfig.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\09.KaminoFactory\bin\Debug\net8.0\09.KaminoFactory.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\09.KaminoFactory\bin\Debug\net8.0\09.KaminoFactory.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\09.KaminoFactory\obj\Debug\net8.0\09.KaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\09.KaminoFactory\obj\Debug\net8.0\09.KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\09.KaminoFactory\obj\Debug\net8.0\09.KaminoFactory.AssemblyInfo.cs
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\09.KaminoFactory\obj\Debug\net8.0\09.KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\09.KaminoFactory\obj\Debug\net8.0\09.KaminoFactory.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\09.KaminoFactory\obj\Debug\net8.0\refint\09.KaminoFactory.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\09.KaminoFactory\obj\Debug\net8.0\09.KaminoFactory.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\09.KaminoFactory\obj\Debug\net8.0\09.KaminoFactory.genruntimeconfig.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\09.KaminoFactory\obj\Debug\net8.0\ref\09.KaminoFactory.dll

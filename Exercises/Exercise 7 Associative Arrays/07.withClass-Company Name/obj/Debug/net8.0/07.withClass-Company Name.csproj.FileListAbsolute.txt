@@ -1,0 +1,14 @@
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\07.withClass-Company Name\bin\Debug\net8.0\07.withClass-Company Name.exe
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\07.withClass-Company Name\bin\Debug\net8.0\07.withClass-Company Name.deps.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\07.withClass-Company Name\bin\Debug\net8.0\07.withClass-Company Name.runtimeconfig.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\07.withClass-Company Name\bin\Debug\net8.0\07.withClass-Company Name.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\07.withClass-Company Name\bin\Debug\net8.0\07.withClass-Company Name.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\07.withClass-Company Name\obj\Debug\net8.0\07.withClass-Company Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\07.withClass-Company Name\obj\Debug\net8.0\07.withClass-Company Name.AssemblyInfoInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\07.withClass-Company Name\obj\Debug\net8.0\07.withClass-Company Name.AssemblyInfo.cs
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\07.withClass-Company Name\obj\Debug\net8.0\07.withClass-Company Name.csproj.CoreCompileInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\07.withClass-Company Name\obj\Debug\net8.0\07.withClass-Company Name.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\07.withClass-Company Name\obj\Debug\net8.0\refint\07.withClass-Company Name.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\07.withClass-Company Name\obj\Debug\net8.0\07.withClass-Company Name.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\07.withClass-Company Name\obj\Debug\net8.0\07.withClass-Company Name.genruntimeconfig.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\07.withClass-Company Name\obj\Debug\net8.0\ref\07.withClass-Company Name.dll

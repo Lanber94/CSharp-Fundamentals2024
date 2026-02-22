@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Lab 6 Objects and Classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5FD42C-E713-416C-BC31-B29E88809856}|07.VehicleCatalogue\\07.VehicleCatalogue.csproj|e:\\softuni kursove\\soft uni-fundamentals 2025\\lab 6 objects and classes\\07.vehiclecatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5FD42C-E713-416C-BC31-B29E88809856}|07.VehicleCatalogue\\07.VehicleCatalogue.csproj|solutionrelative:07.vehiclecatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC68C0D-8962-4A34-B31C-12BFCD407CC6}|07.Ersin\\07.Ersin.csproj|e:\\softuni kursove\\soft uni-fundamentals 2025\\lab 6 objects and classes\\07.ersin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC68C0D-8962-4A34-B31C-12BFCD407CC6}|07.Ersin\\07.Ersin.csproj|solutionrelative:07.ersin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C49B3FC-A78A-46E2-9F63-28BDD502B9D2}|06.StoreBoxes\\06.StoreBoxes.csproj|e:\\softuni kursove\\soft uni-fundamentals 2025\\lab 6 objects and classes\\06.storeboxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C49B3FC-A78A-46E2-9F63-28BDD502B9D2}|06.StoreBoxes\\06.StoreBoxes.csproj|solutionrelative:06.storeboxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179F05D1-6F62-400E-92F6-30A593D27835}|03.Songs\\03.Songs.csproj|e:\\softuni kursove\\soft uni-fundamentals 2025\\lab 6 objects and classes\\03.songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179F05D1-6F62-400E-92F6-30A593D27835}|03.Songs\\03.Songs.csproj|solutionrelative:03.songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9052A09-E3DE-47B2-9EFB-F16D8A7BA785}|05.Students2.0\\05.Students2.0.csproj|e:\\softuni kursove\\soft uni-fundamentals 2025\\lab 6 objects and classes\\05.students2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9052A09-E3DE-47B2-9EFB-F16D8A7BA785}|05.Students2.0\\05.Students2.0.csproj|solutionrelative:05.students2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D10D81-AFC3-4672-A8EB-2C75F1C2D9D6}|04.Students\\04.Students.csproj|e:\\softuni kursove\\soft uni-fundamentals 2025\\lab 6 objects and classes\\04.students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D10D81-AFC3-4672-A8EB-2C75F1C2D9D6}|04.Students\\04.Students.csproj|solutionrelative:04.students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BB0424-FDD0-43E1-875D-39F65D2B87A4}|00.Demo\\00.Demo.csproj|e:\\softuni kursove\\soft uni-fundamentals 2025\\lab 6 objects and classes\\00.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BB0424-FDD0-43E1-875D-39F65D2B87A4}|00.Demo\\00.Demo.csproj|solutionrelative:00.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD18DC97-5370-4471-957F-BC27ECFF6691}|02.BigFactorial\\02.BigFactorial.csproj|e:\\softuni kursove\\soft uni-fundamentals 2025\\lab 6 objects and classes\\02.bigfactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD18DC97-5370-4471-957F-BC27ECFF6691}|02.BigFactorial\\02.BigFactorial.csproj|solutionrelative:02.bigfactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C7BD91-2DFC-4B23-9A2B-E1EA9FE7AB03}|01.RandomizeWords\\01.RandomizeWords.csproj|e:\\softuni kursove\\soft uni-fundamentals 2025\\lab 6 objects and classes\\01.randomizewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C7BD91-2DFC-4B23-9A2B-E1EA9FE7AB03}|01.RandomizeWords\\01.RandomizeWords.csproj|solutionrelative:01.randomizewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749038A4-B097-49FB-84FC-EADF990F35F0}|00.Demo-Class\\00.Demo-Class.csproj|e:\\softuni kursove\\soft uni-fundamentals 2025\\lab 6 objects and classes\\00.demo-class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749038A4-B097-49FB-84FC-EADF990F35F0}|00.Demo-Class\\00.Demo-Class.csproj|solutionrelative:00.demo-class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Lab 6 Objects and Classes\\02.BigFactorial\\Program.cs",
+              "RelativeDocumentMoniker": "02.BigFactorial\\Program.cs",
+              "ToolTip": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Lab 6 Objects and Classes\\02.BigFactorial\\Program.cs",
+              "RelativeToolTip": "02.BigFactorial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:07:28.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Lab 6 Objects and Classes\\05.Students2.0\\Program.cs",
+              "RelativeDocumentMoniker": "05.Students2.0\\Program.cs",
+              "ToolTip": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Lab 6 Objects and Classes\\05.Students2.0\\Program.cs",
+              "RelativeToolTip": "05.Students2.0\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:08:39.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Lab 6 Objects and Classes\\00.Demo-Class\\Program.cs",
+              "RelativeDocumentMoniker": "00.Demo-Class\\Program.cs",
+              "ToolTip": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Lab 6 Objects and Classes\\00.Demo-Class\\Program.cs",
+              "RelativeToolTip": "00.Demo-Class\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:38:23.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Lab 6 Objects and Classes\\07.VehicleCatalogue\\Program.cs",
+              "RelativeDocumentMoniker": "07.VehicleCatalogue\\Program.cs",
+              "ToolTip": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Lab 6 Objects and Classes\\07.VehicleCatalogue\\Program.cs",
+              "RelativeToolTip": "07.VehicleCatalogue\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:09:15.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Lab 6 Objects and Classes\\01.RandomizeWords\\Program.cs",
+              "RelativeDocumentMoniker": "01.RandomizeWords\\Program.cs",
+              "ToolTip": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Lab 6 Objects and Classes\\01.RandomizeWords\\Program.cs",
+              "RelativeToolTip": "01.RandomizeWords\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:06:42.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Lab 6 Objects and Classes\\03.Songs\\Program.cs",
+              "RelativeDocumentMoniker": "03.Songs\\Program.cs",
+              "ToolTip": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Lab 6 Objects and Classes\\03.Songs\\Program.cs",
+              "RelativeToolTip": "03.Songs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:08:11.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Lab 6 Objects and Classes\\07.Ersin\\Program.cs",
+              "RelativeDocumentMoniker": "07.Ersin\\Program.cs",
+              "ToolTip": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Lab 6 Objects and Classes\\07.Ersin\\Program.cs",
+              "RelativeToolTip": "07.Ersin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:10:56.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Lab 6 Objects and Classes\\04.Students\\Program.cs",
+              "RelativeDocumentMoniker": "04.Students\\Program.cs",
+              "ToolTip": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Lab 6 Objects and Classes\\04.Students\\Program.cs",
+              "RelativeToolTip": "04.Students\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:08:23.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Lab 6 Objects and Classes\\00.Demo\\Program.cs",
+              "RelativeDocumentMoniker": "00.Demo\\Program.cs",
+              "ToolTip": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Lab 6 Objects and Classes\\00.Demo\\Program.cs",
+              "RelativeToolTip": "00.Demo\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwBsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:52:50.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Lab 6 Objects and Classes\\06.StoreBoxes\\Program.cs",
+              "RelativeDocumentMoniker": "06.StoreBoxes\\Program.cs",
+              "ToolTip": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Lab 6 Objects and Classes\\06.StoreBoxes\\Program.cs",
+              "RelativeToolTip": "06.StoreBoxes\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwD0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:08:54.004Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

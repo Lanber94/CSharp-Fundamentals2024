@@ -1,0 +1,14 @@
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\05.TopIntegers\bin\Debug\net8.0\05.TopIntegers.exe
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\05.TopIntegers\bin\Debug\net8.0\05.TopIntegers.deps.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\05.TopIntegers\bin\Debug\net8.0\05.TopIntegers.runtimeconfig.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\05.TopIntegers\bin\Debug\net8.0\05.TopIntegers.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\05.TopIntegers\bin\Debug\net8.0\05.TopIntegers.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.AssemblyInfoInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.AssemblyInfo.cs
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\05.TopIntegers\obj\Debug\net8.0\refint\05.TopIntegers.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.genruntimeconfig.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\05.TopIntegers\obj\Debug\net8.0\ref\05.TopIntegers.dll

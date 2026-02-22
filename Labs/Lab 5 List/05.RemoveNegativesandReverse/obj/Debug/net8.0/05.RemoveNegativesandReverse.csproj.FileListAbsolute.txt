@@ -1,0 +1,14 @@
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativesandReverse\bin\Debug\net8.0\05.RemoveNegativesandReverse.exe
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativesandReverse\bin\Debug\net8.0\05.RemoveNegativesandReverse.deps.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativesandReverse\bin\Debug\net8.0\05.RemoveNegativesandReverse.runtimeconfig.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativesandReverse\bin\Debug\net8.0\05.RemoveNegativesandReverse.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativesandReverse\bin\Debug\net8.0\05.RemoveNegativesandReverse.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativesandReverse\obj\Debug\net8.0\05.RemoveNegativesandReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativesandReverse\obj\Debug\net8.0\05.RemoveNegativesandReverse.AssemblyInfoInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativesandReverse\obj\Debug\net8.0\05.RemoveNegativesandReverse.AssemblyInfo.cs
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativesandReverse\obj\Debug\net8.0\05.RemoveNegativesandReverse.csproj.CoreCompileInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativesandReverse\obj\Debug\net8.0\05.RemoveNegativesandReverse.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativesandReverse\obj\Debug\net8.0\refint\05.RemoveNegativesandReverse.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativesandReverse\obj\Debug\net8.0\05.RemoveNegativesandReverse.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativesandReverse\obj\Debug\net8.0\05.RemoveNegativesandReverse.genruntimeconfig.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativesandReverse\obj\Debug\net8.0\ref\05.RemoveNegativesandReverse.dll

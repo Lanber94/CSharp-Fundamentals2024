@@ -1,0 +1,14 @@
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativeReverse\bin\Debug\net8.0\05.RemoveNegativeReverse.exe
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativeReverse\bin\Debug\net8.0\05.RemoveNegativeReverse.deps.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativeReverse\bin\Debug\net8.0\05.RemoveNegativeReverse.runtimeconfig.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativeReverse\bin\Debug\net8.0\05.RemoveNegativeReverse.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativeReverse\bin\Debug\net8.0\05.RemoveNegativeReverse.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativeReverse\obj\Debug\net8.0\05.RemoveNegativeReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativeReverse\obj\Debug\net8.0\05.RemoveNegativeReverse.AssemblyInfoInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativeReverse\obj\Debug\net8.0\05.RemoveNegativeReverse.AssemblyInfo.cs
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativeReverse\obj\Debug\net8.0\05.RemoveNegativeReverse.csproj.CoreCompileInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativeReverse\obj\Debug\net8.0\05.RemoveNegativeReverse.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativeReverse\obj\Debug\net8.0\refint\05.RemoveNegativeReverse.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativeReverse\obj\Debug\net8.0\05.RemoveNegativeReverse.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativeReverse\obj\Debug\net8.0\05.RemoveNegativeReverse.genruntimeconfig.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\05.RemoveNegativeReverse\obj\Debug\net8.0\ref\05.RemoveNegativeReverse.dll

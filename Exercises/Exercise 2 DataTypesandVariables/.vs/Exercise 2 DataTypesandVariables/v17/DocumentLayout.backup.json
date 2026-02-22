@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D70153-3B73-4FDB-AC15-C8D8FD589B59}|09.SpiceMustFlow\\09.SpiceMustFlow.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 2 datatypesandvariables\\09.spicemustflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D70153-3B73-4FDB-AC15-C8D8FD589B59}|09.SpiceMustFlow\\09.SpiceMustFlow.csproj|solutionrelative:09.spicemustflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CBCA851-E705-4E27-BD8B-AB9CBAFFBEEE}|11.Snowballs\\11.Snowballs.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 2 datatypesandvariables\\11.snowballs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CBCA851-E705-4E27-BD8B-AB9CBAFFBEEE}|11.Snowballs\\11.Snowballs.csproj|solutionrelative:11.snowballs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0911A4B9-C446-4962-9AC3-B208984F7A90}|10.PokeMon\\10.PokeMon.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 2 datatypesandvariables\\10.pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0911A4B9-C446-4962-9AC3-B208984F7A90}|10.PokeMon\\10.PokeMon.csproj|solutionrelative:10.pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91275E10-E8DF-4075-94C0-C42312AE5185}|08.BeerKegs\\08.BeerKegs.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 2 datatypesandvariables\\08.beerkegs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91275E10-E8DF-4075-94C0-C42312AE5185}|08.BeerKegs\\08.BeerKegs.csproj|solutionrelative:08.beerkegs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BE5BB5-3053-4D28-AD1F-6C6F67A8EFA4}|07.WaterOverflow\\07.WaterOverflow.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 2 datatypesandvariables\\07.wateroverflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BE5BB5-3053-4D28-AD1F-6C6F67A8EFA4}|07.WaterOverflow\\07.WaterOverflow.csproj|solutionrelative:07.wateroverflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0517CB36-7484-48E2-8110-F8F5137BAC50}|06.TriplesofLatinLetters\\06.TriplesofLatinLetters.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 2 datatypesandvariables\\06.triplesoflatinletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0517CB36-7484-48E2-8110-F8F5137BAC50}|06.TriplesofLatinLetters\\06.TriplesofLatinLetters.csproj|solutionrelative:06.triplesoflatinletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5E0E10-AB34-4A14-9559-A8D54C994504}|05.PrintPartOfASCIITable\\05.PrintPartOfASCIITable.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 2 datatypesandvariables\\05.printpartofasciitable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5E0E10-AB34-4A14-9559-A8D54C994504}|05.PrintPartOfASCIITable\\05.PrintPartOfASCIITable.csproj|solutionrelative:05.printpartofasciitable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBD0C1A-2319-4F21-A547-FB271C8D3BB4}|04.SumofChars\\04.SumofChars.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 2 datatypesandvariables\\04.sumofchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBD0C1A-2319-4F21-A547-FB271C8D3BB4}|04.SumofChars\\04.SumofChars.csproj|solutionrelative:04.sumofchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C22078-E74B-4099-A09C-BC679AD9357B}|03.Elevator\\03.Elevator.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 2 datatypesandvariables\\03.elevator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C22078-E74B-4099-A09C-BC679AD9357B}|03.Elevator\\03.Elevator.csproj|solutionrelative:03.elevator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01314CB-A455-4C15-AFAD-DB3751F27C68}|02.SumDigits\\02.SumDigits.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 2 datatypesandvariables\\02.sumdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01314CB-A455-4C15-AFAD-DB3751F27C68}|02.SumDigits\\02.SumDigits.csproj|solutionrelative:02.sumdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9516DC8F-AA7E-4C05-A45E-D3595B88F48D}|01.IntegerOperations\\01.IntegerOperations.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 2 datatypesandvariables\\01.integeroperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9516DC8F-AA7E-4C05-A45E-D3595B88F48D}|01.IntegerOperations\\01.IntegerOperations.csproj|solutionrelative:01.integeroperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\11.Snowballs\\Program.cs",
+              "RelativeDocumentMoniker": "11.Snowballs\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\11.Snowballs\\Program.cs",
+              "RelativeToolTip": "11.Snowballs\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:58:17.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\10.PokeMon\\Program.cs",
+              "RelativeDocumentMoniker": "10.PokeMon\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\10.PokeMon\\Program.cs",
+              "RelativeToolTip": "10.PokeMon\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:58:01.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\09.SpiceMustFlow\\Program.cs",
+              "RelativeDocumentMoniker": "09.SpiceMustFlow\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\09.SpiceMustFlow\\Program.cs",
+              "RelativeToolTip": "09.SpiceMustFlow\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:57:46.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\08.BeerKegs\\Program.cs",
+              "RelativeDocumentMoniker": "08.BeerKegs\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\08.BeerKegs\\Program.cs",
+              "RelativeToolTip": "08.BeerKegs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:57:24.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\07.WaterOverflow\\Program.cs",
+              "RelativeDocumentMoniker": "07.WaterOverflow\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\07.WaterOverflow\\Program.cs",
+              "RelativeToolTip": "07.WaterOverflow\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:57:12.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\06.TriplesofLatinLetters\\Program.cs",
+              "RelativeDocumentMoniker": "06.TriplesofLatinLetters\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\06.TriplesofLatinLetters\\Program.cs",
+              "RelativeToolTip": "06.TriplesofLatinLetters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:56:56.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\05.PrintPartOfASCIITable\\Program.cs",
+              "RelativeDocumentMoniker": "05.PrintPartOfASCIITable\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\05.PrintPartOfASCIITable\\Program.cs",
+              "RelativeToolTip": "05.PrintPartOfASCIITable\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:56:43.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\04.SumofChars\\Program.cs",
+              "RelativeDocumentMoniker": "04.SumofChars\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\04.SumofChars\\Program.cs",
+              "RelativeToolTip": "04.SumofChars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:56:23.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\03.Elevator\\Program.cs",
+              "RelativeDocumentMoniker": "03.Elevator\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\03.Elevator\\Program.cs",
+              "RelativeToolTip": "03.Elevator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:56:08.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\02.SumDigits\\Program.cs",
+              "RelativeDocumentMoniker": "02.SumDigits\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\02.SumDigits\\Program.cs",
+              "RelativeToolTip": "02.SumDigits\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:55:54.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\01.IntegerOperations\\Program.cs",
+              "RelativeDocumentMoniker": "01.IntegerOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\01.IntegerOperations\\Program.cs",
+              "RelativeToolTip": "01.IntegerOperations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:55:36.599Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

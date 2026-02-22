@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Exercise 7 Associative Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62AB1ED7-1E8C-43DB-96AD-54AEB3E46A4E}|03. Orders\\03. Orders.csproj|e:\\softuni kursove\\soft uni-fundamentals 2025\\exercise 7 associative arrays\\03. orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AB1ED7-1E8C-43DB-96AD-54AEB3E46A4E}|03. Orders\\03. Orders.csproj|solutionrelative:03. orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C29A6AF-3C55-426D-A0C9-D4B80BC262DD}|04. SoftUni Parking\\04. SoftUni Parking.csproj|e:\\softuni kursove\\soft uni-fundamentals 2025\\exercise 7 associative arrays\\04. softuni parking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C29A6AF-3C55-426D-A0C9-D4B80BC262DD}|04. SoftUni Parking\\04. SoftUni Parking.csproj|solutionrelative:04. softuni parking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828C417F-C90E-438F-8E15-F21492D12E6C}|05. Courses\\05. Courses.csproj|e:\\softuni kursove\\soft uni-fundamentals 2025\\exercise 7 associative arrays\\05. courses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828C417F-C90E-438F-8E15-F21492D12E6C}|05. Courses\\05. Courses.csproj|solutionrelative:05. courses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C38A28F-3E8B-4B49-B71A-B5DF451306EF}|06. Student Academy\\06. Student Academy.csproj|e:\\softuni kursove\\soft uni-fundamentals 2025\\exercise 7 associative arrays\\06. student academy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C38A28F-3E8B-4B49-B71A-B5DF451306EF}|06. Student Academy\\06. Student Academy.csproj|solutionrelative:06. student academy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9B3B42-C9DE-4206-8DEF-0C565C4165A5}|07. Company Users\\07. Company Users.csproj|e:\\softuni kursove\\soft uni-fundamentals 2025\\exercise 7 associative arrays\\07. company users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9B3B42-C9DE-4206-8DEF-0C565C4165A5}|07. Company Users\\07. Company Users.csproj|solutionrelative:07. company users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3012DE-E176-4265-854E-0368CE9F098D}|07.withClass-Company Name\\07.withClass-Company Name.csproj|e:\\softuni kursove\\soft uni-fundamentals 2025\\exercise 7 associative arrays\\07.withclass-company name\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3012DE-E176-4265-854E-0368CE9F098D}|07.withClass-Company Name\\07.withClass-Company Name.csproj|solutionrelative:07.withclass-company name\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC29716E-6E58-4792-852B-A0DE7C49B9E5}|02.AMinerTask\\02.AMinerTask.csproj|e:\\softuni kursove\\soft uni-fundamentals 2025\\exercise 7 associative arrays\\02.aminertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC29716E-6E58-4792-852B-A0DE7C49B9E5}|02.AMinerTask\\02.AMinerTask.csproj|solutionrelative:02.aminertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5496F590-FF4A-4349-955E-E5A2CB2945A1}|01.CountCharsinaString\\01.CountCharsinaString.csproj|e:\\softuni kursove\\soft uni-fundamentals 2025\\exercise 7 associative arrays\\01.countcharsinastring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5496F590-FF4A-4349-955E-E5A2CB2945A1}|01.CountCharsinaString\\01.CountCharsinaString.csproj|solutionrelative:01.countcharsinastring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Exercise 7 Associative Arrays\\07. Company Users\\Program.cs",
+              "RelativeDocumentMoniker": "07. Company Users\\Program.cs",
+              "ToolTip": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Exercise 7 Associative Arrays\\07. Company Users\\Program.cs",
+              "RelativeToolTip": "07. Company Users\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:54:41.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Exercise 7 Associative Arrays\\05. Courses\\Program.cs",
+              "RelativeDocumentMoniker": "05. Courses\\Program.cs",
+              "ToolTip": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Exercise 7 Associative Arrays\\05. Courses\\Program.cs",
+              "RelativeToolTip": "05. Courses\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:54:19.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Exercise 7 Associative Arrays\\04. SoftUni Parking\\Program.cs",
+              "RelativeDocumentMoniker": "04. SoftUni Parking\\Program.cs",
+              "ToolTip": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Exercise 7 Associative Arrays\\04. SoftUni Parking\\Program.cs",
+              "RelativeToolTip": "04. SoftUni Parking\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:54:11.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Exercise 7 Associative Arrays\\03. Orders\\Program.cs",
+              "RelativeDocumentMoniker": "03. Orders\\Program.cs",
+              "ToolTip": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Exercise 7 Associative Arrays\\03. Orders\\Program.cs",
+              "RelativeToolTip": "03. Orders\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowD8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:54:00.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Exercise 7 Associative Arrays\\07.withClass-Company Name\\Program.cs",
+              "RelativeDocumentMoniker": "07.withClass-Company Name\\Program.cs",
+              "ToolTip": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Exercise 7 Associative Arrays\\07.withClass-Company Name\\Program.cs",
+              "RelativeToolTip": "07.withClass-Company Name\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:05:38.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Exercise 7 Associative Arrays\\01.CountCharsinaString\\Program.cs",
+              "RelativeDocumentMoniker": "01.CountCharsinaString\\Program.cs",
+              "ToolTip": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Exercise 7 Associative Arrays\\01.CountCharsinaString\\Program.cs",
+              "RelativeToolTip": "01.CountCharsinaString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:52:57.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Exercise 7 Associative Arrays\\06. Student Academy\\Program.cs",
+              "RelativeDocumentMoniker": "06. Student Academy\\Program.cs",
+              "ToolTip": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Exercise 7 Associative Arrays\\06. Student Academy\\Program.cs",
+              "RelativeToolTip": "06. Student Academy\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:54:29.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Exercise 7 Associative Arrays\\02.AMinerTask\\Program.cs",
+              "RelativeDocumentMoniker": "02.AMinerTask\\Program.cs",
+              "ToolTip": "E:\\SoftUni Kursove\\Soft Uni-Fundamentals 2025\\Exercise 7 Associative Arrays\\02.AMinerTask\\Program.cs",
+              "RelativeToolTip": "02.AMinerTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:53:19.247Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

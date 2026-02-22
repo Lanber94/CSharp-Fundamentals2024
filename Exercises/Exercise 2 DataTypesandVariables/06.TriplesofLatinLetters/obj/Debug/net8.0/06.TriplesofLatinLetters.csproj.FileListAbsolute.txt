@@ -1,0 +1,14 @@
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\06.TriplesofLatinLetters\bin\Debug\net8.0\06.TriplesofLatinLetters.exe
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\06.TriplesofLatinLetters\bin\Debug\net8.0\06.TriplesofLatinLetters.deps.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\06.TriplesofLatinLetters\bin\Debug\net8.0\06.TriplesofLatinLetters.runtimeconfig.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\06.TriplesofLatinLetters\bin\Debug\net8.0\06.TriplesofLatinLetters.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\06.TriplesofLatinLetters\bin\Debug\net8.0\06.TriplesofLatinLetters.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\06.TriplesofLatinLetters\obj\Debug\net8.0\06.TriplesofLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\06.TriplesofLatinLetters\obj\Debug\net8.0\06.TriplesofLatinLetters.AssemblyInfoInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\06.TriplesofLatinLetters\obj\Debug\net8.0\06.TriplesofLatinLetters.AssemblyInfo.cs
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\06.TriplesofLatinLetters\obj\Debug\net8.0\06.TriplesofLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\06.TriplesofLatinLetters\obj\Debug\net8.0\06.TriplesofLatinLetters.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\06.TriplesofLatinLetters\obj\Debug\net8.0\refint\06.TriplesofLatinLetters.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\06.TriplesofLatinLetters\obj\Debug\net8.0\06.TriplesofLatinLetters.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\06.TriplesofLatinLetters\obj\Debug\net8.0\06.TriplesofLatinLetters.genruntimeconfig.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\06.TriplesofLatinLetters\obj\Debug\net8.0\ref\06.TriplesofLatinLetters.dll

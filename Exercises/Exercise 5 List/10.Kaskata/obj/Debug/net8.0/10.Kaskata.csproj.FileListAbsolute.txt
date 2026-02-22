@@ -1,0 +1,14 @@
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\10.Kaskata\bin\Debug\net8.0\10.Kaskata.exe
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\10.Kaskata\bin\Debug\net8.0\10.Kaskata.deps.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\10.Kaskata\bin\Debug\net8.0\10.Kaskata.runtimeconfig.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\10.Kaskata\bin\Debug\net8.0\10.Kaskata.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\10.Kaskata\bin\Debug\net8.0\10.Kaskata.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\10.Kaskata\obj\Debug\net8.0\10.Kaskata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\10.Kaskata\obj\Debug\net8.0\10.Kaskata.AssemblyInfoInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\10.Kaskata\obj\Debug\net8.0\10.Kaskata.AssemblyInfo.cs
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\10.Kaskata\obj\Debug\net8.0\10.Kaskata.csproj.CoreCompileInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\10.Kaskata\obj\Debug\net8.0\10.Kaskata.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\10.Kaskata\obj\Debug\net8.0\refint\10.Kaskata.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\10.Kaskata\obj\Debug\net8.0\10.Kaskata.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\10.Kaskata\obj\Debug\net8.0\10.Kaskata.genruntimeconfig.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\10.Kaskata\obj\Debug\net8.0\ref\10.Kaskata.dll

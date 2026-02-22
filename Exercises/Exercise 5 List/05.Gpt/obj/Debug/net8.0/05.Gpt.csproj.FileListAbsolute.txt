@@ -1,0 +1,14 @@
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\05.Gpt\bin\Debug\net8.0\05.Gpt.exe
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\05.Gpt\bin\Debug\net8.0\05.Gpt.deps.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\05.Gpt\bin\Debug\net8.0\05.Gpt.runtimeconfig.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\05.Gpt\bin\Debug\net8.0\05.Gpt.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\05.Gpt\bin\Debug\net8.0\05.Gpt.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\05.Gpt\obj\Debug\net8.0\05.Gpt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\05.Gpt\obj\Debug\net8.0\05.Gpt.AssemblyInfoInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\05.Gpt\obj\Debug\net8.0\05.Gpt.AssemblyInfo.cs
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\05.Gpt\obj\Debug\net8.0\05.Gpt.csproj.CoreCompileInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\05.Gpt\obj\Debug\net8.0\05.Gpt.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\05.Gpt\obj\Debug\net8.0\refint\05.Gpt.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\05.Gpt\obj\Debug\net8.0\05.Gpt.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\05.Gpt\obj\Debug\net8.0\05.Gpt.genruntimeconfig.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 5 List\05.Gpt\obj\Debug\net8.0\ref\05.Gpt.dll

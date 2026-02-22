@@ -1,0 +1,14 @@
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\02.PrintNumbersinReverseOrder\bin\Debug\net8.0\02.PrintNumbersinReverseOrder.exe
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\02.PrintNumbersinReverseOrder\bin\Debug\net8.0\02.PrintNumbersinReverseOrder.deps.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\02.PrintNumbersinReverseOrder\bin\Debug\net8.0\02.PrintNumbersinReverseOrder.runtimeconfig.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\02.PrintNumbersinReverseOrder\bin\Debug\net8.0\02.PrintNumbersinReverseOrder.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\02.PrintNumbersinReverseOrder\bin\Debug\net8.0\02.PrintNumbersinReverseOrder.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\02.PrintNumbersinReverseOrder\obj\Debug\net8.0\02.PrintNumbersinReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\02.PrintNumbersinReverseOrder\obj\Debug\net8.0\02.PrintNumbersinReverseOrder.AssemblyInfoInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\02.PrintNumbersinReverseOrder\obj\Debug\net8.0\02.PrintNumbersinReverseOrder.AssemblyInfo.cs
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\02.PrintNumbersinReverseOrder\obj\Debug\net8.0\02.PrintNumbersinReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\02.PrintNumbersinReverseOrder\obj\Debug\net8.0\02.PrintNumbersinReverseOrder.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\02.PrintNumbersinReverseOrder\obj\Debug\net8.0\refint\02.PrintNumbersinReverseOrder.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\02.PrintNumbersinReverseOrder\obj\Debug\net8.0\02.PrintNumbersinReverseOrder.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\02.PrintNumbersinReverseOrder\obj\Debug\net8.0\02.PrintNumbersinReverseOrder.genruntimeconfig.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\02.PrintNumbersinReverseOrder\obj\Debug\net8.0\ref\02.PrintNumbersinReverseOrder.dll

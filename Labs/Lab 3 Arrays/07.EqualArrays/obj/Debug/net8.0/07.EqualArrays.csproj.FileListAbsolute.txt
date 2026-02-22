@@ -1,0 +1,14 @@
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\07.EqualArrays\bin\Debug\net8.0\07.EqualArrays.exe
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\07.EqualArrays\bin\Debug\net8.0\07.EqualArrays.deps.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\07.EqualArrays\bin\Debug\net8.0\07.EqualArrays.runtimeconfig.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\07.EqualArrays\bin\Debug\net8.0\07.EqualArrays.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\07.EqualArrays\bin\Debug\net8.0\07.EqualArrays.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\07.EqualArrays\obj\Debug\net8.0\07.EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\07.EqualArrays\obj\Debug\net8.0\07.EqualArrays.AssemblyInfoInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\07.EqualArrays\obj\Debug\net8.0\07.EqualArrays.AssemblyInfo.cs
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\07.EqualArrays\obj\Debug\net8.0\07.EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\07.EqualArrays\obj\Debug\net8.0\07.EqualArrays.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\07.EqualArrays\obj\Debug\net8.0\refint\07.EqualArrays.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\07.EqualArrays\obj\Debug\net8.0\07.EqualArrays.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\07.EqualArrays\obj\Debug\net8.0\07.EqualArrays.genruntimeconfig.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\07.EqualArrays\obj\Debug\net8.0\ref\07.EqualArrays.dll

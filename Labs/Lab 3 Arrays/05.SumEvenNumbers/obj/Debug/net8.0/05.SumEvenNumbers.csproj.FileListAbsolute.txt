@@ -1,0 +1,14 @@
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\05.SumEvenNumbers\bin\Debug\net8.0\05.SumEvenNumbers.exe
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\05.SumEvenNumbers\bin\Debug\net8.0\05.SumEvenNumbers.deps.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\05.SumEvenNumbers\bin\Debug\net8.0\05.SumEvenNumbers.runtimeconfig.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\05.SumEvenNumbers\bin\Debug\net8.0\05.SumEvenNumbers.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\05.SumEvenNumbers\bin\Debug\net8.0\05.SumEvenNumbers.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\05.SumEvenNumbers\obj\Debug\net8.0\05.SumEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\05.SumEvenNumbers\obj\Debug\net8.0\05.SumEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\05.SumEvenNumbers\obj\Debug\net8.0\05.SumEvenNumbers.AssemblyInfo.cs
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\05.SumEvenNumbers\obj\Debug\net8.0\05.SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\05.SumEvenNumbers\obj\Debug\net8.0\05.SumEvenNumbers.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\05.SumEvenNumbers\obj\Debug\net8.0\refint\05.SumEvenNumbers.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\05.SumEvenNumbers\obj\Debug\net8.0\05.SumEvenNumbers.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\05.SumEvenNumbers\obj\Debug\net8.0\05.SumEvenNumbers.genruntimeconfig.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\05.SumEvenNumbers\obj\Debug\net8.0\ref\05.SumEvenNumbers.dll

@@ -1,0 +1,14 @@
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\06.EqualSum\bin\Debug\net8.0\06.EqualSum.exe
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\06.EqualSum\bin\Debug\net8.0\06.EqualSum.deps.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\06.EqualSum\bin\Debug\net8.0\06.EqualSum.runtimeconfig.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\06.EqualSum\bin\Debug\net8.0\06.EqualSum.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\06.EqualSum\bin\Debug\net8.0\06.EqualSum.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\06.EqualSum\obj\Debug\net8.0\06.EqualSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\06.EqualSum\obj\Debug\net8.0\06.EqualSum.AssemblyInfoInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\06.EqualSum\obj\Debug\net8.0\06.EqualSum.AssemblyInfo.cs
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\06.EqualSum\obj\Debug\net8.0\06.EqualSum.csproj.CoreCompileInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\06.EqualSum\obj\Debug\net8.0\06.EqualSum.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\06.EqualSum\obj\Debug\net8.0\refint\06.EqualSum.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\06.EqualSum\obj\Debug\net8.0\06.EqualSum.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\06.EqualSum\obj\Debug\net8.0\06.EqualSum.genruntimeconfig.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\06.EqualSum\obj\Debug\net8.0\ref\06.EqualSum.dll

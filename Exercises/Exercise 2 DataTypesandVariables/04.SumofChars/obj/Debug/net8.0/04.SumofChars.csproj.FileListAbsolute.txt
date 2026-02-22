@@ -1,0 +1,14 @@
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\04.SumofChars\bin\Debug\net8.0\04.SumofChars.exe
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\04.SumofChars\bin\Debug\net8.0\04.SumofChars.deps.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\04.SumofChars\bin\Debug\net8.0\04.SumofChars.runtimeconfig.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\04.SumofChars\bin\Debug\net8.0\04.SumofChars.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\04.SumofChars\bin\Debug\net8.0\04.SumofChars.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\04.SumofChars\obj\Debug\net8.0\04.SumofChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\04.SumofChars\obj\Debug\net8.0\04.SumofChars.AssemblyInfoInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\04.SumofChars\obj\Debug\net8.0\04.SumofChars.AssemblyInfo.cs
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\04.SumofChars\obj\Debug\net8.0\04.SumofChars.csproj.CoreCompileInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\04.SumofChars\obj\Debug\net8.0\04.SumofChars.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\04.SumofChars\obj\Debug\net8.0\refint\04.SumofChars.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\04.SumofChars\obj\Debug\net8.0\04.SumofChars.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\04.SumofChars\obj\Debug\net8.0\04.SumofChars.genruntimeconfig.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 2 DataTypesandVariables\04.SumofChars\obj\Debug\net8.0\ref\04.SumofChars.dll

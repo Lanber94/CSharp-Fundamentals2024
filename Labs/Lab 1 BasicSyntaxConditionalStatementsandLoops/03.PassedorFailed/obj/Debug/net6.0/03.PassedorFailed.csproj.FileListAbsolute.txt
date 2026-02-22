@@ -1,0 +1,14 @@
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\01BasicSyntaxConditionalStatementsandLoops\03.PassedorFailed\bin\Debug\net6.0\03.PassedorFailed.exe
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\01BasicSyntaxConditionalStatementsandLoops\03.PassedorFailed\bin\Debug\net6.0\03.PassedorFailed.deps.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\01BasicSyntaxConditionalStatementsandLoops\03.PassedorFailed\bin\Debug\net6.0\03.PassedorFailed.runtimeconfig.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\01BasicSyntaxConditionalStatementsandLoops\03.PassedorFailed\bin\Debug\net6.0\03.PassedorFailed.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\01BasicSyntaxConditionalStatementsandLoops\03.PassedorFailed\bin\Debug\net6.0\03.PassedorFailed.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\01BasicSyntaxConditionalStatementsandLoops\03.PassedorFailed\obj\Debug\net6.0\03.PassedorFailed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\01BasicSyntaxConditionalStatementsandLoops\03.PassedorFailed\obj\Debug\net6.0\03.PassedorFailed.AssemblyInfoInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\01BasicSyntaxConditionalStatementsandLoops\03.PassedorFailed\obj\Debug\net6.0\03.PassedorFailed.AssemblyInfo.cs
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\01BasicSyntaxConditionalStatementsandLoops\03.PassedorFailed\obj\Debug\net6.0\03.PassedorFailed.csproj.CoreCompileInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\01BasicSyntaxConditionalStatementsandLoops\03.PassedorFailed\obj\Debug\net6.0\03.PassedorFailed.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\01BasicSyntaxConditionalStatementsandLoops\03.PassedorFailed\obj\Debug\net6.0\refint\03.PassedorFailed.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\01BasicSyntaxConditionalStatementsandLoops\03.PassedorFailed\obj\Debug\net6.0\03.PassedorFailed.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\01BasicSyntaxConditionalStatementsandLoops\03.PassedorFailed\obj\Debug\net6.0\03.PassedorFailed.genruntimeconfig.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\01BasicSyntaxConditionalStatementsandLoops\03.PassedorFailed\obj\Debug\net6.0\ref\03.PassedorFailed.dll

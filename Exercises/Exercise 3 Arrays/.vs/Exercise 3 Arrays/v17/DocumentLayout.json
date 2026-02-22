@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 3 Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F408104D-EA6C-4EAB-A7BA-933C3BBFA353}|03.Zig-ZagArrays\\03.Zig-ZagArrays.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 3 arrays\\03.zig-zagarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408104D-EA6C-4EAB-A7BA-933C3BBFA353}|03.Zig-ZagArrays\\03.Zig-ZagArrays.csproj|solutionrelative:03.zig-zagarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED6CFF0-0956-483F-ABF3-295AB590AFFF}|02.CommonElements\\02.CommonElements.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 3 arrays\\02.commonelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED6CFF0-0956-483F-ABF3-295AB590AFFF}|02.CommonElements\\02.CommonElements.csproj|solutionrelative:02.commonelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0302309-7B12-46D5-811B-17FBFD1FC909}|01.Train\\01.Train.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 3 arrays\\01.train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0302309-7B12-46D5-811B-17FBFD1FC909}|01.Train\\01.Train.csproj|solutionrelative:01.train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF62858A-8B15-4872-9228-9A36A3B848BD}|10.LadyBugs\\10.LadyBugs.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 3 arrays\\10.ladybugs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF62858A-8B15-4872-9228-9A36A3B848BD}|10.LadyBugs\\10.LadyBugs.csproj|solutionrelative:10.ladybugs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67660BC-6F08-4A05-83FC-C1A37A48B175}|09.KaminoFactory\\09.KaminoFactory.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 3 arrays\\09.kaminofactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67660BC-6F08-4A05-83FC-C1A37A48B175}|09.KaminoFactory\\09.KaminoFactory.csproj|solutionrelative:09.kaminofactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE228537-4F2F-41E0-8770-57F06A677CD1}|08.MagicSum\\08.MagicSum.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 3 arrays\\08.magicsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE228537-4F2F-41E0-8770-57F06A677CD1}|08.MagicSum\\08.MagicSum.csproj|solutionrelative:08.magicsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECFA049-2EDD-4F36-8D34-812C00DF43F8}|07.MaxSequenceofEqualElements\\07.MaxSequenceofEqualElements.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 3 arrays\\07.maxsequenceofequalelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECFA049-2EDD-4F36-8D34-812C00DF43F8}|07.MaxSequenceofEqualElements\\07.MaxSequenceofEqualElements.csproj|solutionrelative:07.maxsequenceofequalelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C91C23F-2D50-471D-9210-5C8B510FD833}|06.EqualSum\\06.EqualSum.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 3 arrays\\06.equalsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C91C23F-2D50-471D-9210-5C8B510FD833}|06.EqualSum\\06.EqualSum.csproj|solutionrelative:06.equalsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DDBCF4-6C50-4DFA-9496-548ABCFEF0DB}|05.TopIntegers\\05.TopIntegers.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 3 arrays\\05.topintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DDBCF4-6C50-4DFA-9496-548ABCFEF0DB}|05.TopIntegers\\05.TopIntegers.csproj|solutionrelative:05.topintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8C4550-156B-457A-BFC8-8AD9A90DB337}|04.ArrayRotation\\04.ArrayRotation.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 3 arrays\\04.arrayrotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8C4550-156B-457A-BFC8-8AD9A90DB337}|04.ArrayRotation\\04.ArrayRotation.csproj|solutionrelative:04.arrayrotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 238,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 3 Arrays\\09.KaminoFactory\\Program.cs",
+              "RelativeDocumentMoniker": "09.KaminoFactory\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 3 Arrays\\09.KaminoFactory\\Program.cs",
+              "RelativeToolTip": "09.KaminoFactory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:30:05.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 3 Arrays\\08.MagicSum\\Program.cs",
+              "RelativeDocumentMoniker": "08.MagicSum\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 3 Arrays\\08.MagicSum\\Program.cs",
+              "RelativeToolTip": "08.MagicSum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:18:42.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 3 Arrays\\07.MaxSequenceofEqualElements\\Program.cs",
+              "RelativeDocumentMoniker": "07.MaxSequenceofEqualElements\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 3 Arrays\\07.MaxSequenceofEqualElements\\Program.cs",
+              "RelativeToolTip": "07.MaxSequenceofEqualElements\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:00:49.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 3 Arrays\\10.LadyBugs\\Program.cs",
+              "RelativeDocumentMoniker": "10.LadyBugs\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 3 Arrays\\10.LadyBugs\\Program.cs",
+              "RelativeToolTip": "10.LadyBugs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:43:36.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 3 Arrays\\06.EqualSum\\Program.cs",
+              "RelativeDocumentMoniker": "06.EqualSum\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 3 Arrays\\06.EqualSum\\Program.cs",
+              "RelativeToolTip": "06.EqualSum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:12:04.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 3 Arrays\\05.TopIntegers\\Program.cs",
+              "RelativeDocumentMoniker": "05.TopIntegers\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 3 Arrays\\05.TopIntegers\\Program.cs",
+              "RelativeToolTip": "05.TopIntegers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:10:54.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 3 Arrays\\04.ArrayRotation\\Program.cs",
+              "RelativeDocumentMoniker": "04.ArrayRotation\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 3 Arrays\\04.ArrayRotation\\Program.cs",
+              "RelativeToolTip": "04.ArrayRotation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T11:38:42.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 3 Arrays\\03.Zig-ZagArrays\\Program.cs",
+              "RelativeDocumentMoniker": "03.Zig-ZagArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 3 Arrays\\03.Zig-ZagArrays\\Program.cs",
+              "RelativeToolTip": "03.Zig-ZagArrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T11:38:36.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 3 Arrays\\01.Train\\Program.cs",
+              "RelativeDocumentMoniker": "01.Train\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 3 Arrays\\01.Train\\Program.cs",
+              "RelativeToolTip": "01.Train\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T11:38:31.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 3 Arrays\\02.CommonElements\\Program.cs",
+              "RelativeDocumentMoniker": "02.CommonElements\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 3 Arrays\\02.CommonElements\\Program.cs",
+              "RelativeToolTip": "02.CommonElements\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T11:36:55.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

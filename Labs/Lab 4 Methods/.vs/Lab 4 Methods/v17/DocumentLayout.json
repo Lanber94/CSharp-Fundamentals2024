@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E21CCA9A-CFAE-4031-9A4A-9F3626E0AF80}|07.RepeatString\\07.RepeatString.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 4 methods\\07.repeatstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21CCA9A-CFAE-4031-9A4A-9F3626E0AF80}|07.RepeatString\\07.RepeatString.csproj|solutionrelative:07.repeatstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379AE5BA-7BB9-4C98-B314-56FDDF0EBD9D}|11.Mathoperations\\11.Mathoperations.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 4 methods\\11.mathoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379AE5BA-7BB9-4C98-B314-56FDDF0EBD9D}|11.Mathoperations\\11.Mathoperations.csproj|solutionrelative:11.mathoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3059D33-DBE7-400F-B8BC-09375A6F2434}|10.MultiplyEvensbyOdds\\10.MultiplyEvensbyOdds.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 4 methods\\10.multiplyevensbyodds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3059D33-DBE7-400F-B8BC-09375A6F2434}|10.MultiplyEvensbyOdds\\10.MultiplyEvensbyOdds.csproj|solutionrelative:10.multiplyevensbyodds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E478160-B943-4047-9D9B-CE59C9C892F2}|03.Calculations\\03.Calculations.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 4 methods\\03.calculations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E478160-B943-4047-9D9B-CE59C9C892F2}|03.Calculations\\03.Calculations.csproj|solutionrelative:03.calculations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4362D34A-9B76-4950-A009-AC425BB52FE1}|04.PrintingTriangle\\04.PrintingTriangle.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 4 methods\\04.printingtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4362D34A-9B76-4950-A009-AC425BB52FE1}|04.PrintingTriangle\\04.PrintingTriangle.csproj|solutionrelative:04.printingtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F140F237-B427-409B-B65B-9282969B749D}|09.GreaterofTwoValues\\09.GreaterofTwoValues.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 4 methods\\09.greateroftwovalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F140F237-B427-409B-B65B-9282969B749D}|09.GreaterofTwoValues\\09.GreaterofTwoValues.csproj|solutionrelative:09.greateroftwovalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D03C6F-2F17-46E2-969D-7B56360FF6E2}|05.Orders\\05.Orders.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 4 methods\\05.orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D03C6F-2F17-46E2-969D-7B56360FF6E2}|05.Orders\\05.Orders.csproj|solutionrelative:05.orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA33514-3F39-416F-9763-DBF3D9A12761}|06.CalculateRectangleArea\\06.CalculateRectangleArea.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 4 methods\\06.calculaterectanglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA33514-3F39-416F-9763-DBF3D9A12761}|06.CalculateRectangleArea\\06.CalculateRectangleArea.csproj|solutionrelative:06.calculaterectanglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00597A15-D5C2-4947-B774-56D11242FCDC}|08.MathPower\\08.MathPower.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 4 methods\\08.mathpower\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00597A15-D5C2-4947-B774-56D11242FCDC}|08.MathPower\\08.MathPower.csproj|solutionrelative:08.mathpower\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84E3654B-4BD7-462F-8C1D-0003A6102E49}|01.SignofIntegerNumber\\01.SignofIntegerNumber.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 4 methods\\01.signofintegernumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84E3654B-4BD7-462F-8C1D-0003A6102E49}|01.SignofIntegerNumber\\01.SignofIntegerNumber.csproj|solutionrelative:01.signofintegernumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012B6C47-3148-44EE-BE54-FFA2A4E50306}|00.Demo\\00.Demo.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 4 methods\\00.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012B6C47-3148-44EE-BE54-FFA2A4E50306}|00.Demo\\00.Demo.csproj|solutionrelative:00.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1E779D-FA4B-4192-9ACB-530161CF804F}|02.Grades\\02.Grades.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 4 methods\\02.grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1E779D-FA4B-4192-9ACB-530161CF804F}|02.Grades\\02.Grades.csproj|solutionrelative:02.grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D03C6F-2F17-46E2-969D-7B56360FF6E2}|05.Orders\\05.Orders.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 4 methods\\05.orders\\05.orders.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A6D03C6F-2F17-46E2-969D-7B56360FF6E2}|05.Orders\\05.Orders.csproj|solutionrelative:05.orders\\05.orders.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012B6C47-3148-44EE-BE54-FFA2A4E50306}|00.Demo\\00.Demo.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 4 methods\\00.demo\\00.demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{012B6C47-3148-44EE-BE54-FFA2A4E50306}|00.Demo\\00.Demo.csproj|solutionrelative:00.demo\\00.demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84E3654B-4BD7-462F-8C1D-0003A6102E49}|01.SignofIntegerNumber\\01.SignofIntegerNumber.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 4 methods\\01.signofintegernumber\\01.signofintegernumber.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84E3654B-4BD7-462F-8C1D-0003A6102E49}|01.SignofIntegerNumber\\01.SignofIntegerNumber.csproj|solutionrelative:01.signofintegernumber\\01.signofintegernumber.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\11.Mathoperations\\Program.cs",
+              "RelativeDocumentMoniker": "11.Mathoperations\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\11.Mathoperations\\Program.cs",
+              "RelativeToolTip": "11.Mathoperations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:05:25.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\10.MultiplyEvensbyOdds\\Program.cs",
+              "RelativeDocumentMoniker": "10.MultiplyEvensbyOdds\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\10.MultiplyEvensbyOdds\\Program.cs",
+              "RelativeToolTip": "10.MultiplyEvensbyOdds\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:30:08.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\09.GreaterofTwoValues\\Program.cs",
+              "RelativeDocumentMoniker": "09.GreaterofTwoValues\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\09.GreaterofTwoValues\\Program.cs",
+              "RelativeToolTip": "09.GreaterofTwoValues\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:55:34.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\08.MathPower\\Program.cs",
+              "RelativeDocumentMoniker": "08.MathPower\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\08.MathPower\\Program.cs",
+              "RelativeToolTip": "08.MathPower\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:33:34.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\07.RepeatString\\Program.cs",
+              "RelativeDocumentMoniker": "07.RepeatString\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\07.RepeatString\\Program.cs",
+              "RelativeToolTip": "07.RepeatString\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:10:40.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "05.Orders",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\05.Orders\\05.Orders.csproj",
+              "RelativeDocumentMoniker": "05.Orders\\05.Orders.csproj",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\05.Orders\\05.Orders.csproj",
+              "RelativeToolTip": "05.Orders\\05.Orders.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T18:31:10.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\06.CalculateRectangleArea\\Program.cs",
+              "RelativeDocumentMoniker": "06.CalculateRectangleArea\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\06.CalculateRectangleArea\\Program.cs",
+              "RelativeToolTip": "06.CalculateRectangleArea\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T21:32:22.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\05.Orders\\Program.cs",
+              "RelativeDocumentMoniker": "05.Orders\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\05.Orders\\Program.cs",
+              "RelativeToolTip": "05.Orders\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T20:48:12.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\04.PrintingTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "04.PrintingTriangle\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\04.PrintingTriangle\\Program.cs",
+              "RelativeToolTip": "04.PrintingTriangle\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T20:03:00.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\03.Calculations\\Program.cs",
+              "RelativeDocumentMoniker": "03.Calculations\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\03.Calculations\\Program.cs",
+              "RelativeToolTip": "03.Calculations\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T20:01:57.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\02.Grades\\Program.cs",
+              "RelativeDocumentMoniker": "02.Grades\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\02.Grades\\Program.cs",
+              "RelativeToolTip": "02.Grades\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:33:02.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "01.SignofIntegerNumber.csproj",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\01.SignofIntegerNumber\\01.SignofIntegerNumber.csproj",
+              "RelativeDocumentMoniker": "01.SignofIntegerNumber\\01.SignofIntegerNumber.csproj",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\01.SignofIntegerNumber\\01.SignofIntegerNumber.csproj",
+              "RelativeToolTip": "01.SignofIntegerNumber\\01.SignofIntegerNumber.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-09T16:22:12.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\01.SignofIntegerNumber\\Program.cs",
+              "RelativeDocumentMoniker": "01.SignofIntegerNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\01.SignofIntegerNumber\\Program.cs",
+              "RelativeToolTip": "01.SignofIntegerNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:20:34.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "00.Demo.csproj",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\00.Demo\\00.Demo.csproj",
+              "RelativeDocumentMoniker": "00.Demo\\00.Demo.csproj",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\00.Demo\\00.Demo.csproj",
+              "RelativeToolTip": "00.Demo\\00.Demo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-09T15:57:24.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\00.Demo\\Program.cs",
+              "RelativeDocumentMoniker": "00.Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 4 Methods\\00.Demo\\Program.cs",
+              "RelativeToolTip": "00.Demo\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:56:49.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

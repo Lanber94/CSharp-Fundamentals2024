@@ -1,0 +1,14 @@
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\04.ReverseArrayofStrings\bin\Debug\net8.0\04.ReverseArrayofStrings.exe
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\04.ReverseArrayofStrings\bin\Debug\net8.0\04.ReverseArrayofStrings.deps.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\04.ReverseArrayofStrings\bin\Debug\net8.0\04.ReverseArrayofStrings.runtimeconfig.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\04.ReverseArrayofStrings\bin\Debug\net8.0\04.ReverseArrayofStrings.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\04.ReverseArrayofStrings\bin\Debug\net8.0\04.ReverseArrayofStrings.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\04.ReverseArrayofStrings\obj\Debug\net8.0\04.ReverseArrayofStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\04.ReverseArrayofStrings\obj\Debug\net8.0\04.ReverseArrayofStrings.AssemblyInfoInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\04.ReverseArrayofStrings\obj\Debug\net8.0\04.ReverseArrayofStrings.AssemblyInfo.cs
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\04.ReverseArrayofStrings\obj\Debug\net8.0\04.ReverseArrayofStrings.csproj.CoreCompileInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\04.ReverseArrayofStrings\obj\Debug\net8.0\04.ReverseArrayofStrings.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\04.ReverseArrayofStrings\obj\Debug\net8.0\refint\04.ReverseArrayofStrings.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\04.ReverseArrayofStrings\obj\Debug\net8.0\04.ReverseArrayofStrings.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\04.ReverseArrayofStrings\obj\Debug\net8.0\04.ReverseArrayofStrings.genruntimeconfig.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 3 Arrays\04.ReverseArrayofStrings\obj\Debug\net8.0\ref\04.ReverseArrayofStrings.dll

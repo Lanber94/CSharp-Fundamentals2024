@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{719EC799-D6CC-4FAF-9BA1-5D9A0AB5352D}|05.BombNumbers\\05.BombNumbers.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 5 list\\05.bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{719EC799-D6CC-4FAF-9BA1-5D9A0AB5352D}|05.BombNumbers\\05.BombNumbers.csproj|solutionrelative:05.bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB6E026-8AFF-45F7-8267-08AC63A6154A}|07.AppendArrayGpt\\07.AppendArrayGpt.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 5 list\\07.appendarraygpt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB6E026-8AFF-45F7-8267-08AC63A6154A}|07.AppendArrayGpt\\07.AppendArrayGpt.csproj|solutionrelative:07.appendarraygpt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F4B792-5EC8-44F0-8796-D13DC21261C0}|10.SoftUniCoursePlanning\\10.SoftUniCoursePlanning.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 5 list\\10.softunicourseplanning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F4B792-5EC8-44F0-8796-D13DC21261C0}|10.SoftUniCoursePlanning\\10.SoftUniCoursePlanning.csproj|solutionrelative:10.softunicourseplanning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775565B9-C915-436A-9B12-13DA04B01FFC}|04.ListOperations\\04.ListOperations.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 5 list\\04.listoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775565B9-C915-436A-9B12-13DA04B01FFC}|04.ListOperations\\04.ListOperations.csproj|solutionrelative:04.listoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E47AD55-4349-4D2A-B188-A330012A48B7}|08.kaskata\\08.kaskata.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 5 list\\08.kaskata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E47AD55-4349-4D2A-B188-A330012A48B7}|08.kaskata\\08.kaskata.csproj|solutionrelative:08.kaskata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8740042-053D-4EE2-97EF-787F23A7B6C8}|10.Kaskata\\10.Kaskata.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 5 list\\10.kaskata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8740042-053D-4EE2-97EF-787F23A7B6C8}|10.Kaskata\\10.Kaskata.csproj|solutionrelative:10.kaskata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA25D3CF-DCFC-4B0A-B0CC-C7BF12B1FED2}|08.AnonymousThreat\\08.AnonymousThreat.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 5 list\\08.anonymousthreat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA25D3CF-DCFC-4B0A-B0CC-C7BF12B1FED2}|08.AnonymousThreat\\08.AnonymousThreat.csproj|solutionrelative:08.anonymousthreat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DA666E-8223-47EF-B26F-B0469B272981}|09.PokemonDon\u0027tGo\\09.PokemonDon\u0027tGo.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 5 list\\09.pokemondon\u0027tgo\\09.pokemondon\u0027tgo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35DA666E-8223-47EF-B26F-B0469B272981}|09.PokemonDon\u0027tGo\\09.PokemonDon\u0027tGo.csproj|solutionrelative:09.pokemondon\u0027tgo\\09.pokemondon\u0027tgo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DA666E-8223-47EF-B26F-B0469B272981}|09.PokemonDon\u0027tGo\\09.PokemonDon\u0027tGo.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 5 list\\09.pokemondon\u0027tgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DA666E-8223-47EF-B26F-B0469B272981}|09.PokemonDon\u0027tGo\\09.PokemonDon\u0027tGo.csproj|solutionrelative:09.pokemondon\u0027tgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC0C689-B2D5-4C30-A2EB-FDA0039DB2FA}|07.AppendArrays\\07.AppendArrays.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 5 list\\07.appendarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC0C689-B2D5-4C30-A2EB-FDA0039DB2FA}|07.AppendArrays\\07.AppendArrays.csproj|solutionrelative:07.appendarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7116B60-FB55-4C39-A67E-56A4EA834890}|02.ChangeList\\02.ChangeList.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 5 list\\02.changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7116B60-FB55-4C39-A67E-56A4EA834890}|02.ChangeList\\02.ChangeList.csproj|solutionrelative:02.changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DCCF8F3-D051-4060-AA9E-A095D90FB6CB}|02.ChangeListKaskata\\02.ChangeListKaskata.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 5 list\\02.changelistkaskata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DCCF8F3-D051-4060-AA9E-A095D90FB6CB}|02.ChangeListKaskata\\02.ChangeListKaskata.csproj|solutionrelative:02.changelistkaskata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A242FAE9-094A-4EC6-BA72-337AD6ECB499}|06.CardsGame\\06.CardsGame.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 5 list\\06.cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A242FAE9-094A-4EC6-BA72-337AD6ECB499}|06.CardsGame\\06.CardsGame.csproj|solutionrelative:06.cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B91504-1789-4ECC-901D-3BFF2D70DB7F}|05.Gpt\\05.Gpt.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 5 list\\05.gpt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B91504-1789-4ECC-901D-3BFF2D70DB7F}|05.Gpt\\05.Gpt.csproj|solutionrelative:05.gpt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00676D94-E92D-4D1C-BA35-9B3DD3B47018}|05.Kaskata\\05.Kaskata.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 5 list\\05.kaskata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00676D94-E92D-4D1C-BA35-9B3DD3B47018}|05.Kaskata\\05.Kaskata.csproj|solutionrelative:05.kaskata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3738347-D824-4623-B626-0131CBE960A8}|03.HouseParty\\03.HouseParty.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 5 list\\03.houseparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3738347-D824-4623-B626-0131CBE960A8}|03.HouseParty\\03.HouseParty.csproj|solutionrelative:03.houseparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A33A03-5FAE-4D34-8E5C-FFEB3F7BAB96}|01.TrainChatGpt\\01.TrainChatGpt.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 5 list\\01.trainchatgpt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A33A03-5FAE-4D34-8E5C-FFEB3F7BAB96}|01.TrainChatGpt\\01.TrainChatGpt.csproj|solutionrelative:01.trainchatgpt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C491910F-7E0D-4453-9326-034C1BFFB5C0}|01.Train\\01.Train.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 5 list\\01.train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C491910F-7E0D-4453-9326-034C1BFFB5C0}|01.Train\\01.Train.csproj|solutionrelative:01.train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719EC799-D6CC-4FAF-9BA1-5D9A0AB5352D}|05.BombNumbers\\05.BombNumbers.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 5 list\\05.bombnumbers\\05.bombnumbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{719EC799-D6CC-4FAF-9BA1-5D9A0AB5352D}|05.BombNumbers\\05.BombNumbers.csproj|solutionrelative:05.bombnumbers\\05.bombnumbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15188B2F-4E3E-4163-8F2B-7A0CE5A2BC05}|03.HousePartyChatGpt\\03.HousePartyChatGpt.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 5 list\\03.housepartychatgpt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15188B2F-4E3E-4163-8F2B-7A0CE5A2BC05}|03.HousePartyChatGpt\\03.HousePartyChatGpt.csproj|solutionrelative:03.housepartychatgpt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A33A03-5FAE-4D34-8E5C-FFEB3F7BAB96}|01.TrainChatGpt\\01.TrainChatGpt.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 5 list\\01.trainchatgpt\\01.trainchatgpt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86A33A03-5FAE-4D34-8E5C-FFEB3F7BAB96}|01.TrainChatGpt\\01.TrainChatGpt.csproj|solutionrelative:01.trainchatgpt\\01.trainchatgpt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\08.kaskata\\Program.cs",
+              "RelativeDocumentMoniker": "08.kaskata\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\08.kaskata\\Program.cs",
+              "RelativeToolTip": "08.kaskata\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T22:06:37.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\10.Kaskata\\Program.cs",
+              "RelativeDocumentMoniker": "10.Kaskata\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\10.Kaskata\\Program.cs",
+              "RelativeToolTip": "10.Kaskata\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:16:36.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\07.AppendArrays\\Program.cs",
+              "RelativeDocumentMoniker": "07.AppendArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\07.AppendArrays\\Program.cs",
+              "RelativeToolTip": "07.AppendArrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:22:03.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\10.SoftUniCoursePlanning\\Program.cs",
+              "RelativeDocumentMoniker": "10.SoftUniCoursePlanning\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\10.SoftUniCoursePlanning\\Program.cs",
+              "RelativeToolTip": "10.SoftUniCoursePlanning\\Program.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAswEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:23:03.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\08.AnonymousThreat\\Program.cs",
+              "RelativeDocumentMoniker": "08.AnonymousThreat\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\08.AnonymousThreat\\Program.cs",
+              "RelativeToolTip": "08.AnonymousThreat\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwFsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:22:21.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\02.ChangeList\\Program.cs",
+              "RelativeDocumentMoniker": "02.ChangeList\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\02.ChangeList\\Program.cs",
+              "RelativeToolTip": "02.ChangeList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:20:52.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\07.AppendArrayGpt\\Program.cs",
+              "RelativeDocumentMoniker": "07.AppendArrayGpt\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\07.AppendArrayGpt\\Program.cs",
+              "RelativeToolTip": "07.AppendArrayGpt\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:44:54.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\06.CardsGame\\Program.cs",
+              "RelativeDocumentMoniker": "06.CardsGame\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\06.CardsGame\\Program.cs",
+              "RelativeToolTip": "06.CardsGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:21:49.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "01.TrainChatGpt.csproj",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\01.TrainChatGpt\\01.TrainChatGpt.csproj",
+              "RelativeDocumentMoniker": "01.TrainChatGpt\\01.TrainChatGpt.csproj",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\01.TrainChatGpt\\01.TrainChatGpt.csproj",
+              "RelativeToolTip": "01.TrainChatGpt\\01.TrainChatGpt.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T19:46:07.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\05.Gpt\\Program.cs",
+              "RelativeDocumentMoniker": "05.Gpt\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\05.Gpt\\Program.cs",
+              "RelativeToolTip": "05.Gpt\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:17:21.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\04.ListOperations\\Program.cs",
+              "RelativeDocumentMoniker": "04.ListOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\04.ListOperations\\Program.cs",
+              "RelativeToolTip": "04.ListOperations\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:21:21.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\05.BombNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "05.BombNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\05.BombNumbers\\Program.cs",
+              "RelativeToolTip": "05.BombNumbers\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:21:33.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\09.PokemonDon\u0027tGo\\Program.cs",
+              "RelativeDocumentMoniker": "09.PokemonDon\u0027tGo\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\09.PokemonDon\u0027tGo\\Program.cs",
+              "RelativeToolTip": "09.PokemonDon\u0027tGo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:22:44.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "09.PokemonDon\u0027tGo.csproj",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\09.PokemonDon\u0027tGo\\09.PokemonDon\u0027tGo.csproj",
+              "RelativeDocumentMoniker": "09.PokemonDon\u0027tGo\\09.PokemonDon\u0027tGo.csproj",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\09.PokemonDon\u0027tGo\\09.PokemonDon\u0027tGo.csproj",
+              "RelativeToolTip": "09.PokemonDon\u0027tGo\\09.PokemonDon\u0027tGo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T21:20:02.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\03.HousePartyChatGpt\\Program.cs",
+              "RelativeDocumentMoniker": "03.HousePartyChatGpt\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\03.HousePartyChatGpt\\Program.cs",
+              "RelativeToolTip": "03.HousePartyChatGpt\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T22:49:14.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\03.HouseParty\\Program.cs",
+              "RelativeDocumentMoniker": "03.HouseParty\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\03.HouseParty\\Program.cs",
+              "RelativeToolTip": "03.HouseParty\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:21:06.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\05.Kaskata\\Program.cs",
+              "RelativeDocumentMoniker": "05.Kaskata\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\05.Kaskata\\Program.cs",
+              "RelativeToolTip": "05.Kaskata\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:14:19.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\02.ChangeListKaskata\\Program.cs",
+              "RelativeDocumentMoniker": "02.ChangeListKaskata\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\02.ChangeListKaskata\\Program.cs",
+              "RelativeToolTip": "02.ChangeListKaskata\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:58:55.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\01.TrainChatGpt\\Program.cs",
+              "RelativeDocumentMoniker": "01.TrainChatGpt\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\01.TrainChatGpt\\Program.cs",
+              "RelativeToolTip": "01.TrainChatGpt\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:23:02.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\01.Train\\Program.cs",
+              "RelativeDocumentMoniker": "01.Train\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\01.Train\\Program.cs",
+              "RelativeToolTip": "01.Train\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:20:27.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "05.BombNumbers.csproj",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\05.BombNumbers\\05.BombNumbers.csproj",
+              "RelativeDocumentMoniker": "05.BombNumbers\\05.BombNumbers.csproj",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 5 List\\05.BombNumbers\\05.BombNumbers.csproj",
+              "RelativeToolTip": "05.BombNumbers\\05.BombNumbers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-02T14:52:02.25Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

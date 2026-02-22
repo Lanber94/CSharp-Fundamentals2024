@@ -1,0 +1,14 @@
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 1 BasicSyntaxConditionalStatementsandLoops\01Ages\obj\Debug\net6.0\01Ages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 1 BasicSyntaxConditionalStatementsandLoops\01Ages\obj\Debug\net6.0\01Ages.AssemblyInfoInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 1 BasicSyntaxConditionalStatementsandLoops\01Ages\obj\Debug\net6.0\01Ages.AssemblyInfo.cs
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 1 BasicSyntaxConditionalStatementsandLoops\01Ages\obj\Debug\net6.0\01Ages.csproj.CoreCompileInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 1 BasicSyntaxConditionalStatementsandLoops\01Ages\bin\Debug\net6.0\01Ages.exe
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 1 BasicSyntaxConditionalStatementsandLoops\01Ages\bin\Debug\net6.0\01Ages.deps.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 1 BasicSyntaxConditionalStatementsandLoops\01Ages\bin\Debug\net6.0\01Ages.runtimeconfig.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 1 BasicSyntaxConditionalStatementsandLoops\01Ages\bin\Debug\net6.0\01Ages.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 1 BasicSyntaxConditionalStatementsandLoops\01Ages\bin\Debug\net6.0\01Ages.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 1 BasicSyntaxConditionalStatementsandLoops\01Ages\obj\Debug\net6.0\01Ages.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 1 BasicSyntaxConditionalStatementsandLoops\01Ages\obj\Debug\net6.0\refint\01Ages.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 1 BasicSyntaxConditionalStatementsandLoops\01Ages\obj\Debug\net6.0\01Ages.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 1 BasicSyntaxConditionalStatementsandLoops\01Ages\obj\Debug\net6.0\01Ages.genruntimeconfig.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 1 BasicSyntaxConditionalStatementsandLoops\01Ages\obj\Debug\net6.0\ref\01Ages.dll

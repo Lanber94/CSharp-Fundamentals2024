@@ -1,0 +1,14 @@
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\00.Reading Lists from the Console\bin\Debug\net8.0\00.Reading Lists from the Console.exe
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\00.Reading Lists from the Console\bin\Debug\net8.0\00.Reading Lists from the Console.deps.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\00.Reading Lists from the Console\bin\Debug\net8.0\00.Reading Lists from the Console.runtimeconfig.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\00.Reading Lists from the Console\bin\Debug\net8.0\00.Reading Lists from the Console.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\00.Reading Lists from the Console\bin\Debug\net8.0\00.Reading Lists from the Console.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\00.Reading Lists from the Console\obj\Debug\net8.0\00.Reading Lists from the Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\00.Reading Lists from the Console\obj\Debug\net8.0\00.Reading Lists from the Console.AssemblyInfoInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\00.Reading Lists from the Console\obj\Debug\net8.0\00.Reading Lists from the Console.AssemblyInfo.cs
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\00.Reading Lists from the Console\obj\Debug\net8.0\00.Reading Lists from the Console.csproj.CoreCompileInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\00.Reading Lists from the Console\obj\Debug\net8.0\00.Reading Lists from the Console.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\00.Reading Lists from the Console\obj\Debug\net8.0\refint\00.Reading Lists from the Console.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\00.Reading Lists from the Console\obj\Debug\net8.0\00.Reading Lists from the Console.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\00.Reading Lists from the Console\obj\Debug\net8.0\00.Reading Lists from the Console.genruntimeconfig.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Lab 5 List\00.Reading Lists from the Console\obj\Debug\net8.0\ref\00.Reading Lists from the Console.dll

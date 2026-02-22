@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22166FBC-E06F-440A-A311-10A49E96CD0A}|07.TheatrePromotion\\07.TheatrePromotion.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 1 basicsyntaxconditionalstatementsandloops\\07.theatrepromotion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22166FBC-E06F-440A-A311-10A49E96CD0A}|07.TheatrePromotion\\07.TheatrePromotion.csproj|solutionrelative:07.theatrepromotion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A72323-8653-42EB-BD89-135F54050B55}|05.MonthPrinter\\05.MonthPrinter.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 1 basicsyntaxconditionalstatementsandloops\\05.monthprinter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A72323-8653-42EB-BD89-135F54050B55}|05.MonthPrinter\\05.MonthPrinter.csproj|solutionrelative:05.monthprinter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE0B59D-AC82-4AE0-91D6-457D0936BFE8}|03.PassedorFailed\\03.PassedorFailed.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 1 basicsyntaxconditionalstatementsandloops\\03.passedorfailed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE0B59D-AC82-4AE0-91D6-457D0936BFE8}|03.PassedorFailed\\03.PassedorFailed.csproj|solutionrelative:03.passedorfailed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED2CF6C-AD9F-40CB-9864-B8DA391C12BC}|01.StudentInformation\\01.StudentInformation.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 1 basicsyntaxconditionalstatementsandloops\\01.studentinformation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED2CF6C-AD9F-40CB-9864-B8DA391C12BC}|01.StudentInformation\\01.StudentInformation.csproj|solutionrelative:01.studentinformation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A75229-23F1-449D-9557-C740573BC49B}|01Demos\\01Demos.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 1 basicsyntaxconditionalstatementsandloops\\01demos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A75229-23F1-449D-9557-C740573BC49B}|01Demos\\01Demos.csproj|solutionrelative:01demos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58CE902-B167-4D9E-9E3A-BCA82932694B}|02.Passed\\02.Passed.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 1 basicsyntaxconditionalstatementsandloops\\02.passed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58CE902-B167-4D9E-9E3A-BCA82932694B}|02.Passed\\02.Passed.csproj|solutionrelative:02.passed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED34ED59-9C0A-46E6-B214-60721F2E46B8}|13.HolidaysBetweenTwoDates\\13.HolidaysBetweenTwoDates.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 1 basicsyntaxconditionalstatementsandloops\\13.holidaysbetweentwodates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED34ED59-9C0A-46E6-B214-60721F2E46B8}|13.HolidaysBetweenTwoDates\\13.HolidaysBetweenTwoDates.csproj|solutionrelative:13.holidaysbetweentwodates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CBD4C3-DD09-441B-9EF1-EE6235E164B3}|12.EvenNumber\\12.EvenNumber.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 1 basicsyntaxconditionalstatementsandloops\\12.evennumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CBD4C3-DD09-441B-9EF1-EE6235E164B3}|12.EvenNumber\\12.EvenNumber.csproj|solutionrelative:12.evennumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8301BD82-4BD2-4E3F-A355-3A611C99D65B}|11.MultiplicationTable2.0\\11.MultiplicationTable2.0.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 1 basicsyntaxconditionalstatementsandloops\\11.multiplicationtable2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8301BD82-4BD2-4E3F-A355-3A611C99D65B}|11.MultiplicationTable2.0\\11.MultiplicationTable2.0.csproj|solutionrelative:11.multiplicationtable2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87975786-E909-4BD5-AD70-FA4926C28A84}|10.MultiplicationTable\\10.MultiplicationTable.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 1 basicsyntaxconditionalstatementsandloops\\10.multiplicationtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87975786-E909-4BD5-AD70-FA4926C28A84}|10.MultiplicationTable\\10.MultiplicationTable.csproj|solutionrelative:10.multiplicationtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15232EBA-07D8-4629-BAE1-137BD1C9A22A}|09.SumofOddNumbers\\09.SumofOddNumbers.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 1 basicsyntaxconditionalstatementsandloops\\09.sumofoddnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15232EBA-07D8-4629-BAE1-137BD1C9A22A}|09.SumofOddNumbers\\09.SumofOddNumbers.csproj|solutionrelative:09.sumofoddnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94487B21-29E8-4869-AE3C-38D26A5A3217}|08.Divisibleby3\\08.Divisibleby3.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 1 basicsyntaxconditionalstatementsandloops\\08.divisibleby3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94487B21-29E8-4869-AE3C-38D26A5A3217}|08.Divisibleby3\\08.Divisibleby3.csproj|solutionrelative:08.divisibleby3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A418CA-F48F-4B3B-9EE3-4422679D4F9C}|06.ForeignLanguages\\06.ForeignLanguages.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 1 basicsyntaxconditionalstatementsandloops\\06.foreignlanguages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A418CA-F48F-4B3B-9EE3-4422679D4F9C}|06.ForeignLanguages\\06.ForeignLanguages.csproj|solutionrelative:06.foreignlanguages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA21B3C-78BF-405B-933E-E413C9749177}|04.BackIn30Minutes\\04.BackIn30Minutes.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 1 basicsyntaxconditionalstatementsandloops\\04.backin30minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA21B3C-78BF-405B-933E-E413C9749177}|04.BackIn30Minutes\\04.BackIn30Minutes.csproj|solutionrelative:04.backin30minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED34ED59-9C0A-46E6-B214-60721F2E46B8}|13.HolidaysBetweenTwoDates\\13.HolidaysBetweenTwoDates.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 1 basicsyntaxconditionalstatementsandloops\\13.holidaysbetweentwodates\\13.holidaysbetweentwodates.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED34ED59-9C0A-46E6-B214-60721F2E46B8}|13.HolidaysBetweenTwoDates\\13.HolidaysBetweenTwoDates.csproj|solutionrelative:13.holidaysbetweentwodates\\13.holidaysbetweentwodates.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8301BD82-4BD2-4E3F-A355-3A611C99D65B}|11.MultiplicationTable2.0\\11.MultiplicationTable2.0.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 1 basicsyntaxconditionalstatementsandloops\\11.multiplicationtable2.0\\11.multiplicationtable2.0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8301BD82-4BD2-4E3F-A355-3A611C99D65B}|11.MultiplicationTable2.0\\11.MultiplicationTable2.0.csproj|solutionrelative:11.multiplicationtable2.0\\11.multiplicationtable2.0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A75229-23F1-449D-9557-C740573BC49B}|01Demos\\01Demos.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 1 basicsyntaxconditionalstatementsandloops\\01demos\\01demos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33A75229-23F1-449D-9557-C740573BC49B}|01Demos\\01Demos.csproj|solutionrelative:01demos\\01demos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CBD4C3-DD09-441B-9EF1-EE6235E164B3}|12.EvenNumber\\12.EvenNumber.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 1 basicsyntaxconditionalstatementsandloops\\12.evennumber\\12.evennumber.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49CBD4C3-DD09-441B-9EF1-EE6235E164B3}|12.EvenNumber\\12.EvenNumber.csproj|solutionrelative:12.evennumber\\12.evennumber.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\09.SumofOddNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "09.SumofOddNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\09.SumofOddNumbers\\Program.cs",
+              "RelativeToolTip": "09.SumofOddNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:35:46.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\10.MultiplicationTable\\Program.cs",
+              "RelativeDocumentMoniker": "10.MultiplicationTable\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\10.MultiplicationTable\\Program.cs",
+              "RelativeToolTip": "10.MultiplicationTable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:14:59.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\12.EvenNumber\\Program.cs",
+              "RelativeDocumentMoniker": "12.EvenNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\12.EvenNumber\\Program.cs",
+              "RelativeToolTip": "12.EvenNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:32:50.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\04.BackIn30Minutes\\Program.cs",
+              "RelativeDocumentMoniker": "04.BackIn30Minutes\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\04.BackIn30Minutes\\Program.cs",
+              "RelativeToolTip": "04.BackIn30Minutes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:58:11.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "13.HolidaysBetweenTwoDates.csproj",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\13.HolidaysBetweenTwoDates\\13.HolidaysBetweenTwoDates.csproj",
+              "RelativeDocumentMoniker": "13.HolidaysBetweenTwoDates\\13.HolidaysBetweenTwoDates.csproj",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\13.HolidaysBetweenTwoDates\\13.HolidaysBetweenTwoDates.csproj",
+              "RelativeToolTip": "13.HolidaysBetweenTwoDates\\13.HolidaysBetweenTwoDates.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-09T15:28:10.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\08.Divisibleby3\\Program.cs",
+              "RelativeDocumentMoniker": "08.Divisibleby3\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\08.Divisibleby3\\Program.cs",
+              "RelativeToolTip": "08.Divisibleby3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:31:17.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\11.MultiplicationTable2.0\\Program.cs",
+              "RelativeDocumentMoniker": "11.MultiplicationTable2.0\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\11.MultiplicationTable2.0\\Program.cs",
+              "RelativeToolTip": "11.MultiplicationTable2.0\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:19:15.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\07.TheatrePromotion\\Program.cs",
+              "RelativeDocumentMoniker": "07.TheatrePromotion\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\07.TheatrePromotion\\Program.cs",
+              "RelativeToolTip": "07.TheatrePromotion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:37:58.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\06.ForeignLanguages\\Program.cs",
+              "RelativeDocumentMoniker": "06.ForeignLanguages\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\06.ForeignLanguages\\Program.cs",
+              "RelativeToolTip": "06.ForeignLanguages\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:30:47.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\05.MonthPrinter\\Program.cs",
+              "RelativeDocumentMoniker": "05.MonthPrinter\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\05.MonthPrinter\\Program.cs",
+              "RelativeToolTip": "05.MonthPrinter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:22:01.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\03.PassedorFailed\\Program.cs",
+              "RelativeDocumentMoniker": "03.PassedorFailed\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\03.PassedorFailed\\Program.cs",
+              "RelativeToolTip": "03.PassedorFailed\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:55:10.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\02.Passed\\Program.cs",
+              "RelativeDocumentMoniker": "02.Passed\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\02.Passed\\Program.cs",
+              "RelativeToolTip": "02.Passed\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:47:50.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\01Demos\\Program.cs",
+              "RelativeDocumentMoniker": "01Demos\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\01Demos\\Program.cs",
+              "RelativeToolTip": "01Demos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:25:56.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\01.StudentInformation\\Program.cs",
+              "RelativeDocumentMoniker": "01.StudentInformation\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\01.StudentInformation\\Program.cs",
+              "RelativeToolTip": "01.StudentInformation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:58:06.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\13.HolidaysBetweenTwoDates\\Program.cs",
+              "RelativeDocumentMoniker": "13.HolidaysBetweenTwoDates\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\13.HolidaysBetweenTwoDates\\Program.cs",
+              "RelativeToolTip": "13.HolidaysBetweenTwoDates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T00:04:55.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "11.MultiplicationTable2.0.csproj",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\11.MultiplicationTable2.0\\11.MultiplicationTable2.0.csproj",
+              "RelativeDocumentMoniker": "11.MultiplicationTable2.0\\11.MultiplicationTable2.0.csproj",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\11.MultiplicationTable2.0\\11.MultiplicationTable2.0.csproj",
+              "RelativeToolTip": "11.MultiplicationTable2.0\\11.MultiplicationTable2.0.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-09T15:23:54.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "01Demos.csproj",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\01Demos\\01Demos.csproj",
+              "RelativeDocumentMoniker": "01Demos\\01Demos.csproj",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\01Demos\\01Demos.csproj",
+              "RelativeToolTip": "01Demos\\01Demos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-09T15:19:53.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "12.EvenNumber.csproj",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\12.EvenNumber\\12.EvenNumber.csproj",
+              "RelativeDocumentMoniker": "12.EvenNumber\\12.EvenNumber.csproj",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 1 BasicSyntaxConditionalStatementsandLoops\\12.EvenNumber\\12.EvenNumber.csproj",
+              "RelativeToolTip": "12.EvenNumber\\12.EvenNumber.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T23:32:53.514Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 4 Methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{266F300A-4FFF-4254-86E7-8C008A9C1E70}|07.NxNMatrix\\07.NxNMatrix.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 4 methods\\07.nxnmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266F300A-4FFF-4254-86E7-8C008A9C1E70}|07.NxNMatrix\\07.NxNMatrix.csproj|solutionrelative:07.nxnmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEC53D1-FA6B-403A-A414-472E2343FB2F}|06.MiddleCharacters\\06.MiddleCharacters.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 4 methods\\06.middlecharacters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEC53D1-FA6B-403A-A414-472E2343FB2F}|06.MiddleCharacters\\06.MiddleCharacters.csproj|solutionrelative:06.middlecharacters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8753655B-0D86-4285-954A-D42AC3A6E7CE}|05.AddandSubtract\\05.AddandSubtract.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 4 methods\\05.addandsubtract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8753655B-0D86-4285-954A-D42AC3A6E7CE}|05.AddandSubtract\\05.AddandSubtract.csproj|solutionrelative:05.addandsubtract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDA8CC6-3C35-466E-83C6-AC5EF389097B}|02.VowelsCount\\02.VowelsCount.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 4 methods\\02.vowelscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDA8CC6-3C35-466E-83C6-AC5EF389097B}|02.VowelsCount\\02.VowelsCount.csproj|solutionrelative:02.vowelscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5875CEE-BBD8-4768-89BD-F24B72F2D7E3}|11.ArrayManipulator\\11.ArrayManipulator.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 4 methods\\11.arraymanipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5875CEE-BBD8-4768-89BD-F24B72F2D7E3}|11.ArrayManipulator\\11.ArrayManipulator.csproj|solutionrelative:11.arraymanipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E7089D-5810-4589-B8F5-2F29086A379D}|03.CharactersInRange\\03.CharactersInRange.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 4 methods\\03.charactersinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E7089D-5810-4589-B8F5-2F29086A379D}|03.CharactersInRange\\03.CharactersInRange.csproj|solutionrelative:03.charactersinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23CC917-8A28-4A48-879B-1B99F7629BA6}|09.PalindromeIntegers\\09.PalindromeIntegers.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 4 methods\\09.palindromeintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23CC917-8A28-4A48-879B-1B99F7629BA6}|09.PalindromeIntegers\\09.PalindromeIntegers.csproj|solutionrelative:09.palindromeintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B400538-4DD7-4B46-8D74-929921DA3D37}|01.SmallestofThreeNumbers\\01.SmallestofThreeNumbers.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 4 methods\\01.smallestofthreenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B400538-4DD7-4B46-8D74-929921DA3D37}|01.SmallestofThreeNumbers\\01.SmallestofThreeNumbers.csproj|solutionrelative:01.smallestofthreenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFABD34-F6F6-4053-88DC-75312CD2E71A}|08.FactorialDivision\\08.FactorialDivision.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 4 methods\\08.factorialdivision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFABD34-F6F6-4053-88DC-75312CD2E71A}|08.FactorialDivision\\08.FactorialDivision.csproj|solutionrelative:08.factorialdivision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9CD3B9-2387-4A89-B2E6-0F58C9093FA8}|04.PasswordValidator\\04.PasswordValidator.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 4 methods\\04.passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9CD3B9-2387-4A89-B2E6-0F58C9093FA8}|04.PasswordValidator\\04.PasswordValidator.csproj|solutionrelative:04.passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A56601-344F-4791-A85E-41AE901A90C5}|10.TopNumber\\10.TopNumber.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\exercise 4 methods\\10.topnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A56601-344F-4791-A85E-41AE901A90C5}|10.TopNumber\\10.TopNumber.csproj|solutionrelative:10.topnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 4 Methods\\02.VowelsCount\\Program.cs",
+              "RelativeDocumentMoniker": "02.VowelsCount\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 4 Methods\\02.VowelsCount\\Program.cs",
+              "RelativeToolTip": "02.VowelsCount\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T13:20:53.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 4 Methods\\11.ArrayManipulator\\Program.cs",
+              "RelativeDocumentMoniker": "11.ArrayManipulator\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 4 Methods\\11.ArrayManipulator\\Program.cs",
+              "RelativeToolTip": "11.ArrayManipulator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:22:34.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 4 Methods\\10.TopNumber\\Program.cs",
+              "RelativeDocumentMoniker": "10.TopNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 4 Methods\\10.TopNumber\\Program.cs",
+              "RelativeToolTip": "10.TopNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:22:10.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 4 Methods\\09.PalindromeIntegers\\Program.cs",
+              "RelativeDocumentMoniker": "09.PalindromeIntegers\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 4 Methods\\09.PalindromeIntegers\\Program.cs",
+              "RelativeToolTip": "09.PalindromeIntegers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:21:52.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 4 Methods\\08.FactorialDivision\\Program.cs",
+              "RelativeDocumentMoniker": "08.FactorialDivision\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 4 Methods\\08.FactorialDivision\\Program.cs",
+              "RelativeToolTip": "08.FactorialDivision\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:21:38.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 4 Methods\\07.NxNMatrix\\Program.cs",
+              "RelativeDocumentMoniker": "07.NxNMatrix\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 4 Methods\\07.NxNMatrix\\Program.cs*",
+              "RelativeToolTip": "07.NxNMatrix\\Program.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:21:23.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 4 Methods\\06.MiddleCharacters\\Program.cs",
+              "RelativeDocumentMoniker": "06.MiddleCharacters\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 4 Methods\\06.MiddleCharacters\\Program.cs",
+              "RelativeToolTip": "06.MiddleCharacters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:21:01.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 4 Methods\\05.AddandSubtract\\Program.cs",
+              "RelativeDocumentMoniker": "05.AddandSubtract\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 4 Methods\\05.AddandSubtract\\Program.cs",
+              "RelativeToolTip": "05.AddandSubtract\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:19:48.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 4 Methods\\04.PasswordValidator\\Program.cs",
+              "RelativeDocumentMoniker": "04.PasswordValidator\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 4 Methods\\04.PasswordValidator\\Program.cs",
+              "RelativeToolTip": "04.PasswordValidator\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:19:23.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 4 Methods\\03.CharactersInRange\\Program.cs",
+              "RelativeDocumentMoniker": "03.CharactersInRange\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 4 Methods\\03.CharactersInRange\\Program.cs",
+              "RelativeToolTip": "03.CharactersInRange\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:19:03.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 4 Methods\\01.SmallestofThreeNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.SmallestofThreeNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 4 Methods\\01.SmallestofThreeNumbers\\Program.cs",
+              "RelativeToolTip": "01.SmallestofThreeNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:47:53.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

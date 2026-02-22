@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{782BC2E7-E62B-47D7-AE9C-4D48B93991C2}|07.ListManipulationGeorgi\\07.ListManipulationGeorgi.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 5 list\\07.listmanipulationgeorgi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782BC2E7-E62B-47D7-AE9C-4D48B93991C2}|07.ListManipulationGeorgi\\07.ListManipulationGeorgi.csproj|solutionrelative:07.listmanipulationgeorgi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DF8423-EEE4-44DB-8AB2-494400B6DB74}|07.ListManipulationAdvanced\\07.ListManipulationAdvanced.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 5 list\\07.listmanipulationadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DF8423-EEE4-44DB-8AB2-494400B6DB74}|07.ListManipulationAdvanced\\07.ListManipulationAdvanced.csproj|solutionrelative:07.listmanipulationadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552A3FEE-9877-4680-8673-7B1483A0DE85}|06.ListManipulationBasics\\06.ListManipulationBasics.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 5 list\\06.listmanipulationbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552A3FEE-9877-4680-8673-7B1483A0DE85}|06.ListManipulationBasics\\06.ListManipulationBasics.csproj|solutionrelative:06.listmanipulationbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6720FC5-6B56-4726-972E-CCC6E0D7C4A0}|05.RemoveNegativesandReverse\\05.RemoveNegativesandReverse.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 5 list\\05.removenegativesandreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6720FC5-6B56-4726-972E-CCC6E0D7C4A0}|05.RemoveNegativesandReverse\\05.RemoveNegativesandReverse.csproj|solutionrelative:05.removenegativesandreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837D0376-6A42-43A3-8B0B-7F87A024DF1A}|05.RemoveNegativeReverse\\05.RemoveNegativeReverse.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 5 list\\05.removenegativereverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837D0376-6A42-43A3-8B0B-7F87A024DF1A}|05.RemoveNegativeReverse\\05.RemoveNegativeReverse.csproj|solutionrelative:05.removenegativereverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7375C0D1-DCFC-4A57-97E0-DF4CDB5374CF}|03.MerginList\\03.MerginList.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 5 list\\03.merginlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7375C0D1-DCFC-4A57-97E0-DF4CDB5374CF}|03.MerginList\\03.MerginList.csproj|solutionrelative:03.merginlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD2FF89-D4D8-4496-9393-53645E017A8E}|04.ListofProducts\\04.ListofProducts.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 5 list\\04.listofproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD2FF89-D4D8-4496-9393-53645E017A8E}|04.ListofProducts\\04.ListofProducts.csproj|solutionrelative:04.listofproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41285D5C-502E-496C-BBD6-5F6C70A322C9}|00.Reading Lists from the Console\\00.Reading Lists from the Console.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 5 list\\00.reading lists from the console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41285D5C-502E-496C-BBD6-5F6C70A322C9}|00.Reading Lists from the Console\\00.Reading Lists from the Console.csproj|solutionrelative:00.reading lists from the console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A3C3A9-3FFB-470A-A27F-6D8325AB7CD4}|01.SumAdjacentEqualNumbers\\01.SumAdjacentEqualNumbers.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 5 list\\01.sumadjacentequalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A3C3A9-3FFB-470A-A27F-6D8325AB7CD4}|01.SumAdjacentEqualNumbers\\01.SumAdjacentEqualNumbers.csproj|solutionrelative:01.sumadjacentequalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23DBBBD1-08F4-41DC-B6D7-42CB00ED4C60}|02.Gauss\u0027Trick\\02.Gauss\u0027Trick.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 5 list\\02.gauss\u0027trick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23DBBBD1-08F4-41DC-B6D7-42CB00ED4C60}|02.Gauss\u0027Trick\\02.Gauss\u0027Trick.csproj|solutionrelative:02.gauss\u0027trick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925DBA65-FA28-46C1-8104-AC1838533338}|03.MergingLists\\03.MergingLists.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 5 list\\03.merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925DBA65-FA28-46C1-8104-AC1838533338}|03.MergingLists\\03.MergingLists.csproj|solutionrelative:03.merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552A3FEE-9877-4680-8673-7B1483A0DE85}|06.ListManipulationBasics\\06.ListManipulationBasics.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 5 list\\06.listmanipulationbasics\\06.listmanipulationbasics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{552A3FEE-9877-4680-8673-7B1483A0DE85}|06.ListManipulationBasics\\06.ListManipulationBasics.csproj|solutionrelative:06.listmanipulationbasics\\06.listmanipulationbasics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6720FC5-6B56-4726-972E-CCC6E0D7C4A0}|05.RemoveNegativesandReverse\\05.RemoveNegativesandReverse.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 5 list\\05.removenegativesandreverse\\05.removenegativesandreverse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A6720FC5-6B56-4726-972E-CCC6E0D7C4A0}|05.RemoveNegativesandReverse\\05.RemoveNegativesandReverse.csproj|solutionrelative:05.removenegativesandreverse\\05.removenegativesandreverse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7375C0D1-DCFC-4A57-97E0-DF4CDB5374CF}|03.MerginList\\03.MerginList.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 5 list\\03.merginlist\\03.merginlist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7375C0D1-DCFC-4A57-97E0-DF4CDB5374CF}|03.MerginList\\03.MerginList.csproj|solutionrelative:03.merginlist\\03.merginlist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6983D9CF-23B5-48AC-A454-0E953EA12B7D}|00.Demos\\00.Demos.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 5 list\\00.demos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6983D9CF-23B5-48AC-A454-0E953EA12B7D}|00.Demos\\00.Demos.csproj|solutionrelative:00.demos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5688DC83-D163-48DC-9AB2-1BA6BE799E76}|00.Printing Lists On the Console\\00.Printing Lists On the Console.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 5 list\\00.printing lists on the console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5688DC83-D163-48DC-9AB2-1BA6BE799E76}|00.Printing Lists On the Console\\00.Printing Lists On the Console.csproj|solutionrelative:00.printing lists on the console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AC078B-CBBF-480E-A14D-D9E13664ABAB}|00.Reading List Values from a Single Line\\00.Reading List Values from a Single Line.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 5 list\\00.reading list values from a single line\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AC078B-CBBF-480E-A14D-D9E13664ABAB}|00.Reading List Values from a Single Line\\00.Reading List Values from a Single Line.csproj|solutionrelative:00.reading list values from a single line\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A3C3A9-3FFB-470A-A27F-6D8325AB7CD4}|01.SumAdjacentEqualNumbers\\01.SumAdjacentEqualNumbers.csproj|c:\\users\\ersin\\desktop\\soft uni-fundamentals 2025\\lab 5 list\\01.sumadjacentequalnumbers\\01.sumadjacentequalnumbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58A3C3A9-3FFB-470A-A27F-6D8325AB7CD4}|01.SumAdjacentEqualNumbers\\01.SumAdjacentEqualNumbers.csproj|solutionrelative:01.sumadjacentequalnumbers\\01.sumadjacentequalnumbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\07.ListManipulationGeorgi\\Program.cs",
+              "RelativeDocumentMoniker": "07.ListManipulationGeorgi\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\07.ListManipulationGeorgi\\Program.cs",
+              "RelativeToolTip": "07.ListManipulationGeorgi\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwFcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T01:36:14.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "06.ListManipulationBasics.csproj",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\06.ListManipulationBasics\\06.ListManipulationBasics.csproj",
+              "RelativeDocumentMoniker": "06.ListManipulationBasics\\06.ListManipulationBasics.csproj",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\06.ListManipulationBasics\\06.ListManipulationBasics.csproj",
+              "RelativeToolTip": "06.ListManipulationBasics\\06.ListManipulationBasics.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T21:34:20.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\05.RemoveNegativeReverse\\Program.cs",
+              "RelativeDocumentMoniker": "05.RemoveNegativeReverse\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\05.RemoveNegativeReverse\\Program.cs",
+              "RelativeToolTip": "05.RemoveNegativeReverse\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:34:06.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "05.RemoveNegativesandReverse.csproj",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\05.RemoveNegativesandReverse\\05.RemoveNegativesandReverse.csproj",
+              "RelativeDocumentMoniker": "05.RemoveNegativesandReverse\\05.RemoveNegativesandReverse.csproj",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\05.RemoveNegativesandReverse\\05.RemoveNegativesandReverse.csproj",
+              "RelativeToolTip": "05.RemoveNegativesandReverse\\05.RemoveNegativesandReverse.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T19:16:50.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "03.MerginList.csproj",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\03.MerginList\\03.MerginList.csproj",
+              "RelativeDocumentMoniker": "03.MerginList\\03.MerginList.csproj",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\03.MerginList\\03.MerginList.csproj",
+              "RelativeToolTip": "03.MerginList\\03.MerginList.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T18:23:43.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\03.MerginList\\Program.cs",
+              "RelativeDocumentMoniker": "03.MerginList\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\03.MerginList\\Program.cs",
+              "RelativeToolTip": "03.MerginList\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:08:55.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "01.SumAdjacentEqualNumbers.csproj",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\01.SumAdjacentEqualNumbers\\01.SumAdjacentEqualNumbers.csproj",
+              "RelativeDocumentMoniker": "01.SumAdjacentEqualNumbers\\01.SumAdjacentEqualNumbers.csproj",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\01.SumAdjacentEqualNumbers\\01.SumAdjacentEqualNumbers.csproj",
+              "RelativeToolTip": "01.SumAdjacentEqualNumbers\\01.SumAdjacentEqualNumbers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-22T22:43:51.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\00.Printing Lists On the Console\\Program.cs",
+              "RelativeDocumentMoniker": "00.Printing Lists On the Console\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\00.Printing Lists On the Console\\Program.cs",
+              "RelativeToolTip": "00.Printing Lists On the Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T22:35:09.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\00.Reading List Values from a Single Line\\Program.cs",
+              "RelativeDocumentMoniker": "00.Reading List Values from a Single Line\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\00.Reading List Values from a Single Line\\Program.cs",
+              "RelativeToolTip": "00.Reading List Values from a Single Line\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T22:24:24.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\00.Reading Lists from the Console\\Program.cs",
+              "RelativeDocumentMoniker": "00.Reading Lists from the Console\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\00.Reading Lists from the Console\\Program.cs",
+              "RelativeToolTip": "00.Reading Lists from the Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T22:05:32.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\00.Demos\\Program.cs",
+              "RelativeDocumentMoniker": "00.Demos\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\00.Demos\\Program.cs",
+              "RelativeToolTip": "00.Demos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T20:21:06.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\07.ListManipulationAdvanced\\Program.cs",
+              "RelativeDocumentMoniker": "07.ListManipulationAdvanced\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\07.ListManipulationAdvanced\\Program.cs",
+              "RelativeToolTip": "07.ListManipulationAdvanced\\Program.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAvwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:17:11.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\06.ListManipulationBasics\\Program.cs",
+              "RelativeDocumentMoniker": "06.ListManipulationBasics\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\06.ListManipulationBasics\\Program.cs",
+              "RelativeToolTip": "06.ListManipulationBasics\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:16:53.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\05.RemoveNegativesandReverse\\Program.cs",
+              "RelativeDocumentMoniker": "05.RemoveNegativesandReverse\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\05.RemoveNegativesandReverse\\Program.cs",
+              "RelativeToolTip": "05.RemoveNegativesandReverse\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:16:36.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\04.ListofProducts\\Program.cs",
+              "RelativeDocumentMoniker": "04.ListofProducts\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\04.ListofProducts\\Program.cs",
+              "RelativeToolTip": "04.ListofProducts\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:16:15.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\03.MergingLists\\Program.cs",
+              "RelativeDocumentMoniker": "03.MergingLists\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\03.MergingLists\\Program.cs",
+              "RelativeToolTip": "03.MergingLists\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:16:00.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\02.Gauss\u0027Trick\\Program.cs",
+              "RelativeDocumentMoniker": "02.Gauss\u0027Trick\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\02.Gauss\u0027Trick\\Program.cs",
+              "RelativeToolTip": "02.Gauss\u0027Trick\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:15:47.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\01.SumAdjacentEqualNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.SumAdjacentEqualNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Lab 5 List\\01.SumAdjacentEqualNumbers\\Program.cs",
+              "RelativeToolTip": "01.SumAdjacentEqualNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:15:10.197Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

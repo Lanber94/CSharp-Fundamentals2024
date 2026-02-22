@@ -1,0 +1,14 @@
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\10.LadyBugs\bin\Debug\net8.0\10.LadyBugs.exe
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\10.LadyBugs\bin\Debug\net8.0\10.LadyBugs.deps.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\10.LadyBugs\bin\Debug\net8.0\10.LadyBugs.runtimeconfig.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\10.LadyBugs\bin\Debug\net8.0\10.LadyBugs.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\10.LadyBugs\bin\Debug\net8.0\10.LadyBugs.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\10.LadyBugs\obj\Debug\net8.0\10.LadyBugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\10.LadyBugs\obj\Debug\net8.0\10.LadyBugs.AssemblyInfoInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\10.LadyBugs\obj\Debug\net8.0\10.LadyBugs.AssemblyInfo.cs
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\10.LadyBugs\obj\Debug\net8.0\10.LadyBugs.csproj.CoreCompileInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\10.LadyBugs\obj\Debug\net8.0\10.LadyBugs.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\10.LadyBugs\obj\Debug\net8.0\refint\10.LadyBugs.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\10.LadyBugs\obj\Debug\net8.0\10.LadyBugs.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\10.LadyBugs\obj\Debug\net8.0\10.LadyBugs.genruntimeconfig.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 3 Arrays\10.LadyBugs\obj\Debug\net8.0\ref\10.LadyBugs.dll

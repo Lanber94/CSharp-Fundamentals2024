@@ -1,0 +1,14 @@
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\06. Student Academy\bin\Debug\net8.0\06. Student Academy.exe
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\06. Student Academy\bin\Debug\net8.0\06. Student Academy.deps.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\06. Student Academy\bin\Debug\net8.0\06. Student Academy.runtimeconfig.json
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\06. Student Academy\bin\Debug\net8.0\06. Student Academy.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\06. Student Academy\bin\Debug\net8.0\06. Student Academy.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\06. Student Academy\obj\Debug\net8.0\06. Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\06. Student Academy\obj\Debug\net8.0\06. Student Academy.AssemblyInfoInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\06. Student Academy\obj\Debug\net8.0\06. Student Academy.AssemblyInfo.cs
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\06. Student Academy\obj\Debug\net8.0\06. Student Academy.csproj.CoreCompileInputs.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\06. Student Academy\obj\Debug\net8.0\06. Student Academy.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\06. Student Academy\obj\Debug\net8.0\refint\06. Student Academy.dll
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\06. Student Academy\obj\Debug\net8.0\06. Student Academy.pdb
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\06. Student Academy\obj\Debug\net8.0\06. Student Academy.genruntimeconfig.cache
+C:\Users\ersin\Desktop\Soft Uni-Fundamentals 2025\Exercise 7 Associative Arrays\06. Student Academy\obj\Debug\net8.0\ref\06. Student Academy.dll
