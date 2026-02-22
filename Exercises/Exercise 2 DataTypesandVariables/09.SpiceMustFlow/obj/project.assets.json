@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\09.SpiceMustFlow\\09.SpiceMustFlow.csproj",
+      "projectUniqueName": "E:\\Fork-GitHub\\CSharp-Fundamentals2024\\Exercises\\Exercise 2 DataTypesandVariables\\09.SpiceMustFlow\\09.SpiceMustFlow.csproj",
       "projectName": "09.SpiceMustFlow",
-      "projectPath": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\09.SpiceMustFlow\\09.SpiceMustFlow.csproj",
+      "projectPath": "E:\\Fork-GitHub\\CSharp-Fundamentals2024\\Exercises\\Exercise 2 DataTypesandVariables\\09.SpiceMustFlow\\09.SpiceMustFlow.csproj",
       "packagesPath": "C:\\Users\\ersin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\09.SpiceMustFlow\\obj\\",
+      "outputPath": "E:\\Fork-GitHub\\CSharp-Fundamentals2024\\Exercises\\Exercise 2 DataTypesandVariables\\09.SpiceMustFlow\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ersin\\AppData\\Roaming\\NuGet\\NuGet.Config",

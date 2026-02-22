@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\11.Nevenna\\11.Nevenna.csproj",
+      "projectUniqueName": "E:\\Fork-GitHub\\CSharp-Fundamentals2024\\Exercises\\Exercise 2 DataTypesandVariables\\11.Nevenna\\11.Nevenna.csproj",
       "projectName": "11.Nevenna",
-      "projectPath": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\11.Nevenna\\11.Nevenna.csproj",
+      "projectPath": "E:\\Fork-GitHub\\CSharp-Fundamentals2024\\Exercises\\Exercise 2 DataTypesandVariables\\11.Nevenna\\11.Nevenna.csproj",
       "packagesPath": "C:\\Users\\ersin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\11.Nevenna\\obj\\",
+      "outputPath": "E:\\Fork-GitHub\\CSharp-Fundamentals2024\\Exercises\\Exercise 2 DataTypesandVariables\\11.Nevenna\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ersin\\AppData\\Roaming\\NuGet\\NuGet.Config",

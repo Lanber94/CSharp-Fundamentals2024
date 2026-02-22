@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\04.SumofChars\\04.SumofChars.csproj",
+      "projectUniqueName": "E:\\Fork-GitHub\\CSharp-Fundamentals2024\\Exercises\\Exercise 2 DataTypesandVariables\\04.SumofChars\\04.SumofChars.csproj",
       "projectName": "04.SumofChars",
-      "projectPath": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\04.SumofChars\\04.SumofChars.csproj",
+      "projectPath": "E:\\Fork-GitHub\\CSharp-Fundamentals2024\\Exercises\\Exercise 2 DataTypesandVariables\\04.SumofChars\\04.SumofChars.csproj",
       "packagesPath": "C:\\Users\\ersin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\04.SumofChars\\obj\\",
+      "outputPath": "E:\\Fork-GitHub\\CSharp-Fundamentals2024\\Exercises\\Exercise 2 DataTypesandVariables\\04.SumofChars\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ersin\\AppData\\Roaming\\NuGet\\NuGet.Config",

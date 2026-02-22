@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\10.PokeMon\\10.PokeMon.csproj",
+      "projectUniqueName": "E:\\Fork-GitHub\\CSharp-Fundamentals2024\\Exercises\\Exercise 2 DataTypesandVariables\\10.PokeMon\\10.PokeMon.csproj",
       "projectName": "10.PokeMon",
-      "projectPath": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\10.PokeMon\\10.PokeMon.csproj",
+      "projectPath": "E:\\Fork-GitHub\\CSharp-Fundamentals2024\\Exercises\\Exercise 2 DataTypesandVariables\\10.PokeMon\\10.PokeMon.csproj",
       "packagesPath": "C:\\Users\\ersin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\10.PokeMon\\obj\\",
+      "outputPath": "E:\\Fork-GitHub\\CSharp-Fundamentals2024\\Exercises\\Exercise 2 DataTypesandVariables\\10.PokeMon\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ersin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\08.BeerKegs\\08.BeerKegs.csproj": {}
+    "E:\\Fork-GitHub\\CSharp-Fundamentals2024\\Exercises\\Exercise 2 DataTypesandVariables\\08.BeerKegs\\08.BeerKegs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\08.BeerKegs\\08.BeerKegs.csproj": {
+    "E:\\Fork-GitHub\\CSharp-Fundamentals2024\\Exercises\\Exercise 2 DataTypesandVariables\\08.BeerKegs\\08.BeerKegs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\08.BeerKegs\\08.BeerKegs.csproj",
+        "projectUniqueName": "E:\\Fork-GitHub\\CSharp-Fundamentals2024\\Exercises\\Exercise 2 DataTypesandVariables\\08.BeerKegs\\08.BeerKegs.csproj",
         "projectName": "08.BeerKegs",
-        "projectPath": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\08.BeerKegs\\08.BeerKegs.csproj",
+        "projectPath": "E:\\Fork-GitHub\\CSharp-Fundamentals2024\\Exercises\\Exercise 2 DataTypesandVariables\\08.BeerKegs\\08.BeerKegs.csproj",
         "packagesPath": "C:\\Users\\ersin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\08.BeerKegs\\obj\\",
+        "outputPath": "E:\\Fork-GitHub\\CSharp-Fundamentals2024\\Exercises\\Exercise 2 DataTypesandVariables\\08.BeerKegs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ersin\\AppData\\Roaming\\NuGet\\NuGet.Config",

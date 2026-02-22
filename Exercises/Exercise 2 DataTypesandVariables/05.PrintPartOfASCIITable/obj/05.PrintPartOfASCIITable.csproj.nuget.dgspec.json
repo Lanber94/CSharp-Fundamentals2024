@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\05.PrintPartOfASCIITable\\05.PrintPartOfASCIITable.csproj": {}
+    "E:\\Fork-GitHub\\CSharp-Fundamentals2024\\Exercises\\Exercise 2 DataTypesandVariables\\05.PrintPartOfASCIITable\\05.PrintPartOfASCIITable.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\05.PrintPartOfASCIITable\\05.PrintPartOfASCIITable.csproj": {
+    "E:\\Fork-GitHub\\CSharp-Fundamentals2024\\Exercises\\Exercise 2 DataTypesandVariables\\05.PrintPartOfASCIITable\\05.PrintPartOfASCIITable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\05.PrintPartOfASCIITable\\05.PrintPartOfASCIITable.csproj",
+        "projectUniqueName": "E:\\Fork-GitHub\\CSharp-Fundamentals2024\\Exercises\\Exercise 2 DataTypesandVariables\\05.PrintPartOfASCIITable\\05.PrintPartOfASCIITable.csproj",
         "projectName": "05.PrintPartOfASCIITable",
-        "projectPath": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\05.PrintPartOfASCIITable\\05.PrintPartOfASCIITable.csproj",
+        "projectPath": "E:\\Fork-GitHub\\CSharp-Fundamentals2024\\Exercises\\Exercise 2 DataTypesandVariables\\05.PrintPartOfASCIITable\\05.PrintPartOfASCIITable.csproj",
         "packagesPath": "C:\\Users\\ersin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\05.PrintPartOfASCIITable\\obj\\",
+        "outputPath": "E:\\Fork-GitHub\\CSharp-Fundamentals2024\\Exercises\\Exercise 2 DataTypesandVariables\\05.PrintPartOfASCIITable\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ersin\\AppData\\Roaming\\NuGet\\NuGet.Config",

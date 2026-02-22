@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\01.IntegerOperations\\01.IntegerOperations.csproj",
+      "projectUniqueName": "E:\\Fork-GitHub\\CSharp-Fundamentals2024\\Exercises\\Exercise 2 DataTypesandVariables\\01.IntegerOperations\\01.IntegerOperations.csproj",
       "projectName": "01.IntegerOperations",
-      "projectPath": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\01.IntegerOperations\\01.IntegerOperations.csproj",
+      "projectPath": "E:\\Fork-GitHub\\CSharp-Fundamentals2024\\Exercises\\Exercise 2 DataTypesandVariables\\01.IntegerOperations\\01.IntegerOperations.csproj",
       "packagesPath": "C:\\Users\\ersin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ersin\\Desktop\\Soft Uni-Fundamentals 2025\\Exercise 2 DataTypesandVariables\\01.IntegerOperations\\obj\\",
+      "outputPath": "E:\\Fork-GitHub\\CSharp-Fundamentals2024\\Exercises\\Exercise 2 DataTypesandVariables\\01.IntegerOperations\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ersin\\AppData\\Roaming\\NuGet\\NuGet.Config",
